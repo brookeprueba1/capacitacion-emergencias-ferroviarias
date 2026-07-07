@@ -1,5 +1,6 @@
 # CURSO DE CAPACITACIÓN
 # ATENCIÓN Y MANEJO DE EMERGENCIAS EN EL SECTOR FERROVIARIO
+## ENFOCADO AL CONTEXTO COLOMBIANO
 
 ---
 
@@ -9,20 +10,21 @@
 |-------|---------|
 | **Duración** | 40 horas (5 días) |
 | **Modalidad** | Presencial con ejercicios prácticos |
-| **Dirigido a** | Personal operativo, supervisores, despachadores, maquinistas, personal de estaciones y equipos de respuesta a emergencias |
+| **Dirigido a** | Personal operativo, supervisores, despachadores, maquinistas, personal de estaciones y equipos de respuesta a emergencias del sector ferroviario colombiano |
 | **Certificación** | Certificado de competencia en manejo de emergencias ferroviarias |
+| **País de aplicación** | República de Colombia |
 
 ---
 
 ## ÍNDICE GENERAL
 
-1. [Módulo 1: Fundamentos de Seguridad Ferroviaria](#módulo-1)
+1. [Módulo 1: El Sistema Ferroviario Colombiano y Marco Normativo](#módulo-1)
 2. [Módulo 2: Clasificación de Emergencias Ferroviarias](#módulo-2)
-3. [Módulo 3: Sistema de Comando de Incidentes (SCI/ICS)](#módulo-3)
+3. [Módulo 3: Sistema de Comando de Incidentes (SCI) en Colombia](#módulo-3)
 4. [Módulo 4: Protocolos de Respuesta a Emergencias](#módulo-4)
 5. [Módulo 5: Evacuación de Pasajeros y Primeros Auxilios](#módulo-5)
-6. [Módulo 6: Materiales Peligrosos (HAZMAT) en el Ferrocarril](#módulo-6)
-7. [Módulo 7: Comunicación en Crisis](#módulo-7)
+6. [Módulo 6: Materiales Peligrosos (MATPEL) en el Ferrocarril](#módulo-6)
+7. [Módulo 7: Comunicación en Crisis y Coordinación Institucional](#módulo-7)
 8. [Módulo 8: Casos Reales de Estudio](#módulo-8)
 9. [Módulo 9: Simulacros y Ejercicios Prácticos](#módulo-9)
 10. [Módulo 10: Evaluación y Certificación](#módulo-10)
@@ -30,59 +32,120 @@
 ---
 
 
-## MÓDULO 1: FUNDAMENTOS DE SEGURIDAD FERROVIARIA {#módulo-1}
+## MÓDULO 1: EL SISTEMA FERROVIARIO COLOMBIANO Y MARCO NORMATIVO {#módulo-1}
 
 ### 1.1 Objetivos de Aprendizaje
 Al finalizar este módulo, el participante será capaz de:
-- Identificar los componentes del sistema ferroviario relevantes para la seguridad
-- Comprender el marco normativo aplicable
-- Reconocer los riesgos inherentes a la operación ferroviaria
+- Comprender el estado actual y proyección del sistema ferroviario en Colombia
+- Identificar el marco normativo colombiano aplicable a la seguridad ferroviaria
+- Reconocer las entidades reguladoras y sus funciones
+- Conocer los riesgos específicos de la operación ferroviaria en el territorio colombiano
 
-### 1.2 El Sistema Ferroviario: Componentes Críticos
+### 1.2 El Sistema Ferroviario en Colombia: Panorama Actual
 
-#### Infraestructura
-- **Vía férrea:** Rieles, durmientes, balasto, sujeciones
-- **Señalización:** Semáforos, balizas, enclavamientos
-- **Electrificación:** Catenaria, subestaciones, tercer riel
-- **Obras civiles:** Puentes, túneles, pasos a nivel, estaciones
+#### Contexto Histórico
+Colombia llegó a tener más de 3,400 km de vía férrea a mediados del siglo XX, operados por los Ferrocarriles Nacionales de Colombia. Tras décadas de declive, el país está experimentando una reactivación ferroviaria significativa.
 
-#### Material Rodante
-- Locomotoras (diésel, eléctricas)
-- Coches de pasajeros
-- Vagones de carga (cisterna, plataforma, tolva, contenedores)
-- Unidades de tren (EMU/DMU)
+#### Infraestructura Ferroviaria Actual
 
-#### Factor Humano
-- Maquinistas/conductores
-- Despachadores de tráfico
-- Personal de estaciones
-- Técnicos de mantenimiento
-- Supervisores de operaciones
+| Sistema | Tipo | Estado | Ubicación |
+|---------|------|--------|-----------|
+| Metro de Medellín | Transporte masivo urbano | En operación (desde 1995) | Valle de Aburrá, Antioquia |
+| Metrocable Medellín | Cable aéreo integrado al metro | En operación | Medellín |
+| Tranvía de Ayacucho | Tranvía urbano | En operación | Medellín |
+| Metro de Bogotá (Línea 1) | Transporte masivo urbano | En construcción (pruebas 2026) | Bogotá D.C. |
+| RegioTram de Occidente | Tren de cercanías | En construcción | Bogotá - Facatativá |
+| Corredor férreo La Dorada - Chiriguaná | Carga | En operación/rehabilitación | Caldas - Cesar |
+| Corredor férreo del Pacífico | Carga | En rehabilitación | Buenaventura - Cali |
+| Tren del Carare | Carga | En proyecto | Boyacá - Santander |
 
-### 1.3 Marco Normativo y Regulatorio
+#### Proyectos en Desarrollo
+- **Metro de Bogotá Línea 1:** 23.96 km, 16 estaciones, capacidad para 72,000 pasajeros/hora/sentido. Primer tren llegó a Colombia en 2025, pruebas dinámicas en 2026, operación comercial proyectada para 2028.
+- **RegioTram de Occidente:** 39.6 km conectando Bogotá con Facatativá, 17 estaciones.
+- **Plan Maestro Ferroviario (PMF):** Objetivo de reactivar el transporte férreo e impulsar el comercio nacional.
+- **Metro de la 80 (Línea E):** Proyecto de Ecociudad en Medellín.
 
-| Ámbito | Normativa/Organismo |
-|--------|-------------------|
-| Internacional | UIC (Unión Internacional de Ferrocarriles) |
-| Europa | ERA (Agencia Ferroviaria Europea), Directiva 2004/49/CE |
-| EE.UU. | FRA (Federal Railroad Administration), 49 CFR Part 239 |
-| Latinoamérica | Normativas nacionales de cada país |
+#### Características del Terreno Colombiano que Afectan la Operación
+- **Topografía montañosa:** Tres cordilleras con pendientes pronunciadas
+- **Clima tropical:** Lluvias intensas, deslizamientos, inundaciones
+- **Zonas sísmicas:** Gran parte del territorio está en zona de riesgo sísmico
+- **Vegetación densa:** Visibilidad reducida en zonas rurales
+- **Pasos a nivel informales:** Cruces no autorizados en corredores de carga
 
-> **Nota importante:** La regulación 49 CFR § 239.101 (EE.UU.) establece que todo operador ferroviario debe contar con un plan de preparación para emergencias que incluya capacitación inicial y periódica al menos cada dos años calendario.
-> Fuente: [49 CFR § 239.101](https://www.law.cornell.edu/cfr/text/49/239.101)
+---
 
-### 1.4 Cultura de Seguridad
+
+### 1.3 Marco Normativo Colombiano
+
+#### Legislación Principal
+
+| Norma | Contenido Relevante |
+|-------|-------------------|
+| **Ley 1523 de 2012** | Política Nacional de Gestión del Riesgo de Desastres. Establece el SNGRD |
+| **Ley 1682 de 2013** | Ley de Infraestructura de Transporte. Medidas y disposiciones para proyectos de infraestructura |
+| **Ley 769 de 2002** | Código Nacional de Tránsito. Incluye disposiciones sobre pasos a nivel |
+| **Decreto 1079 de 2015** | Decreto Único Reglamentario del Sector Transporte |
+| **Decreto 4147 de 2011** | Creación de la UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres) |
+| **Decreto 1072 de 2015** | Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST) |
+| **Resolución 1111 de 2017** | Estándares mínimos del SG-SST |
+| **Plan Maestro Ferroviario (2020)** | Marco estratégico para la reactivación del modo férreo |
+
+#### Entidades Reguladoras y de Control
+
+| Entidad | Función |
+|---------|---------|
+| **ANI** (Agencia Nacional de Infraestructura) | Gestión y administración de la infraestructura ferroviaria concesionada |
+| **Supertransporte** (Superintendencia de Transporte) | Inspección, vigilancia y control del transporte ferroviario |
+| **Mintransporte** (Ministerio de Transporte) | Política pública y regulación del sector transporte |
+| **UNGRD** (Unidad Nacional para la Gestión del Riesgo de Desastres) | Coordinación del SNGRD, atención de emergencias |
+| **INVÍAS** (Instituto Nacional de Vías) | Infraestructura vial no concesionada |
+| **ARL** (Administradoras de Riesgos Laborales) | Seguridad y salud en el trabajo del personal ferroviario |
+| **Bomberos de Colombia** | Atención de incendios y rescate |
+| **Defensa Civil Colombiana** | Apoyo en búsqueda y rescate |
+| **Cruz Roja Colombiana** | Atención prehospitalaria en emergencias |
+
+### 1.4 Sistema Nacional de Gestión del Riesgo de Desastres (SNGRD)
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│          SISTEMA NACIONAL DE GESTIÓN DEL RIESGO              │
+│                    (Ley 1523 de 2012)                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  NIVEL NACIONAL                                              │
+│  ├── Presidente de la República (Director del SNGRD)         │
+│  ├── UNGRD (Coordinación)                                    │
+│  ├── Comité Nacional para la Gestión del Riesgo              │
+│  └── Ministerios y entidades nacionales                      │
+│                                                              │
+│  NIVEL DEPARTAMENTAL                                         │
+│  ├── Gobernador (Responsable de la gestión del riesgo)       │
+│  ├── Consejo Departamental de Gestión del Riesgo (CDGRD)     │
+│  └── Entidades departamentales                               │
+│                                                              │
+│  NIVEL MUNICIPAL                                             │
+│  ├── Alcalde (Responsable directo)                           │
+│  ├── Consejo Municipal de Gestión del Riesgo (CMGRD)         │
+│  └── Organismos de socorro locales                           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### 1.5 Cultura de Seguridad Ferroviaria en Colombia
 
 **Principios fundamentales:**
 1. La seguridad es responsabilidad de TODOS
-2. Ninguna operación es tan urgente que no pueda realizarse de forma segura
-3. Todo incidente es prevenible
+2. Cumplimiento estricto del SG-SST (Decreto 1072 de 2015)
+3. Todo incidente es prevenible y debe ser reportado
 4. La capacitación continua es obligatoria
-5. Reportar condiciones inseguras NO es opcional
+5. Coordinar siempre con el SNGRD ante emergencias mayores
 
 **Regla de oro ferroviaria:**
 > "Espere movimiento en cualquier vía, en cualquier dirección, en cualquier momento"
-> Fuente: [Fire Engineering - Training for Railroad Emergencies](https://www.fireengineering.com/firefighter-training/training-for-railroad-emergencies/)
+
+**Nota sobre Colombia:** Las normas que rigen el modo férreo en el país datan en parte de 1920, y el Plan Maestro Ferroviario busca actualizarlas. Es fundamental que el personal esté preparado para operar bajo estándares modernos de seguridad.
+
+Fuente: [Anadolu Agency - El plan para reactivar el transporte ferroviario en Colombia](https://aa.com.tr/es/mundo/el-plan-para-reactivar-el-transporte-ferroviario-en-colombia/2053643)
 
 ---
 
@@ -92,10 +155,10 @@ Al finalizar este módulo, el participante será capaz de:
 ### 2.1 Objetivos de Aprendizaje
 Al finalizar este módulo, el participante será capaz de:
 - Clasificar los tipos de emergencias ferroviarias según su naturaleza y gravedad
-- Identificar los niveles de respuesta requeridos
+- Identificar los niveles de respuesta requeridos según el SNGRD
 - Determinar los recursos necesarios según el tipo de emergencia
 
-### 2.2 Tipos de Emergencias Ferroviarias
+### 2.2 Tipos de Emergencias Ferroviarias en Colombia
 
 #### A. Accidentes Operacionales
 
@@ -106,81 +169,94 @@ Al finalizar este módulo, el participante será capaz de:
 | Colisión en paso a nivel | Impacto con vehículo o peatón | Medio - Alto |
 | Atrapamiento de persona | Persona atrapada por/entre material rodante | Crítico |
 | Arrollamiento | Impacto de tren con persona en vía | Crítico |
+| Caída de pasajero | En estaciones o desde el tren | Medio |
 
-#### B. Emergencias por Materiales Peligrosos
+#### B. Emergencias Naturales (Específicas de Colombia)
 
-| Clase | Material | Ejemplo |
-|-------|----------|---------|
-| 1 | Explosivos | Municiones, pirotecnia |
-| 2 | Gases | GLP, cloro, amoníaco |
-| 3 | Líquidos inflamables | Gasolina, petróleo crudo |
-| 4 | Sólidos inflamables | Fósforo, magnesio |
-| 5 | Oxidantes y peróxidos | Nitrato de amonio |
-| 6 | Tóxicos e infecciosos | Pesticidas, residuos biológicos |
-| 7 | Radiactivos | Material nuclear |
-| 8 | Corrosivos | Ácido sulfúrico, sosa cáustica |
-| 9 | Misceláneos | Baterías de litio |
+| Tipo | Zonas de Mayor Riesgo |
+|------|----------------------|
+| Deslizamientos de tierra | Corredores de montaña (Cordillera Central y Occidental) |
+| Inundaciones | Valle del Magdalena, zonas bajas del corredor La Dorada-Chiriguaná |
+| Sismos | Eje Cafetero, Nariño, Santanderes, Bogotá |
+| Avenidas torrenciales | Zonas de ladera con quebradas |
+| Caída de árboles | Corredores rurales con vegetación densa |
+| Vendavales | Costa Caribe, llanos orientales |
 
-#### C. Emergencias en Infraestructura
+#### C. Emergencias por Materiales Peligrosos (MATPEL)
 
-- Incendios en estaciones o túneles
-- Inundaciones de vía
-- Deslizamientos de tierra
-- Fallas estructurales (puentes, muros de contención)
-- Fallas en sistema eléctrico / electrocución
+| Clase ONU | Material | Transporte férreo en Colombia |
+|-----------|----------|-------------------------------|
+| 1 | Explosivos | Regulado por MinDefensa |
+| 2 | Gases | GLP, gases industriales |
+| 3 | Líquidos inflamables | Hidrocarburos, derivados del petróleo |
+| 4 | Sólidos inflamables | Carbón (principal carga ferroviaria en Colombia) |
+| 5 | Oxidantes y peróxidos | Fertilizantes |
+| 6 | Tóxicos e infecciosos | Agroquímicos |
+| 7 | Radiactivos | Regulado por el Servicio Geológico Colombiano |
+| 8 | Corrosivos | Ácidos industriales |
+| 9 | Misceláneos | Baterías, mercancías diversas |
+
+> **Dato importante para Colombia:** El carbón es la principal carga transportada por ferrocarril en Colombia (corredor La Dorada - Santa Marta / Chiriguaná - Santa Marta). Aunque no se clasifica como material peligroso per se, presenta riesgos de combustión espontánea, generación de polvo y contaminación ambiental.
 
 #### D. Emergencias de Seguridad (Security)
 
-- Amenazas de bomba
-- Actos terroristas
+- Amenazas de bomba (contexto colombiano de orden público)
+- Actos de sabotaje a infraestructura
 - Vandalismo a infraestructura crítica
 - Interferencia deliberada con señalización
+- Hurto de rieles o elementos de vía (problemática recurrente en Colombia)
+- Bloqueos sociales de la vía férrea
 
 #### E. Emergencias Médicas a Bordo
 
-- Pasajeros con crisis médica
+- Pasajeros con crisis médica (aplica especialmente en metros y sistemas masivos)
 - Situaciones de pánico colectivo
-- Agresiones entre pasajeros
+- Agresiones entre usuarios
+- Emergencias obstétricas
 
-### 2.3 Niveles de Emergencia
+### 2.3 Niveles de Emergencia (Alineados con el SNGRD)
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    NIVELES DE EMERGENCIA                      │
-├─────────┬───────────────────────────────────────────────────┤
-│ NIVEL 1 │ Emergencia menor - Resuelta con recursos locales  │
-│ (Verde) │ Ejemplo: Pasajero con malestar, avería menor      │
-├─────────┼───────────────────────────────────────────────────┤
-│ NIVEL 2 │ Emergencia moderada - Requiere apoyo externo      │
-│(Amarillo)│ Ejemplo: Descarrilamiento sin víctimas, incendio │
-│         │ controlable                                        │
-├─────────┼───────────────────────────────────────────────────┤
-│ NIVEL 3 │ Emergencia mayor - Activación total del plan      │
-│ (Rojo)  │ Ejemplo: Colisión con víctimas múltiples,         │
-│         │ derrame HAZMAT masivo                              │
-├─────────┼───────────────────────────────────────────────────┤
-│ NIVEL 4 │ Catástrofe - Coordinación interinstitucional      │
-│ (Negro) │ Ejemplo: Desastre con víctimas masivas,           │
-│         │ atentado terrorista                                │
-└─────────┴───────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│               NIVELES DE EMERGENCIA FERROVIARIA                   │
+│            (Alineados con Ley 1523 de 2012 - SNGRD)             │
+├─────────┬───────────────────────────────────────────────────────┤
+│ NIVEL 1 │ Emergencia menor - Recursos propios del operador      │
+│ (Verde) │ Ejemplo: Avería menor, pasajero con malestar,         │
+│         │ objeto en la vía retirado sin incidente                │
+│         │ Coordinación: Interna (CCO)                            │
+├─────────┼───────────────────────────────────────────────────────┤
+│ NIVEL 2 │ Emergencia moderada - Apoyo de organismos de socorro  │
+│(Amarillo)│ Ejemplo: Descarrilamiento sin víctimas, incendio     │
+│         │ controlable, colisión menor en paso a nivel            │
+│         │ Coordinación: CCO + Línea 123 + Bomberos              │
+├─────────┼───────────────────────────────────────────────────────┤
+│ NIVEL 3 │ Emergencia mayor - Activación CMGRD/CDGRD            │
+│ (Rojo)  │ Ejemplo: Colisión con víctimas múltiples, derrame     │
+│         │ MATPEL masivo, descarrilamiento con heridos            │
+│         │ Coordinación: CMGRD + UNGRD departamental             │
+├─────────┼───────────────────────────────────────────────────────┤
+│ NIVEL 4 │ Catástrofe - Activación Nacional del SNGRD            │
+│ (Negro) │ Ejemplo: Desastre con víctimas masivas, emergencia    │
+│         │ que supera capacidad local y departamental             │
+│         │ Coordinación: UNGRD nacional + Presidente             │
+└─────────┴───────────────────────────────────────────────────────┘
 ```
 
 ---
 
 
-## MÓDULO 3: SISTEMA DE COMANDO DE INCIDENTES (SCI/ICS) {#módulo-3}
+## MÓDULO 3: SISTEMA DE COMANDO DE INCIDENTES (SCI) EN COLOMBIA {#módulo-3}
 
 ### 3.1 Objetivos de Aprendizaje
 Al finalizar este módulo, el participante será capaz de:
-- Comprender la estructura del Sistema de Comando de Incidentes
-- Identificar su rol dentro del SCI durante una emergencia
-- Aplicar los principios del SCI en escenarios ferroviarios
+- Comprender la estructura del SCI adoptado en Colombia
+- Identificar su rol dentro del SCI durante una emergencia ferroviaria
+- Coordinar con las entidades del SNGRD
 
-### 3.2 ¿Qué es el Sistema de Comando de Incidentes?
+### 3.2 El SCI en Colombia
 
-El SCI es un sistema estandarizado de gestión en el lugar del incidente que permite el mando, control y coordinación efectiva de la respuesta a emergencias. Proporciona una jerarquía común dentro de la cual los respondedores de múltiples agencias pueden trabajar de manera efectiva.
-
-> **Referencia:** Basado en las directrices del [ICS for Extreme Events on the Railroad](https://transweb.sjsu.edu/research/cceetr/ICS-extreme-events) - Mineta Transportation Institute, San José State University.
+El Sistema de Comando de Incidentes fue adoptado en Colombia como herramienta de gestión para la atención de emergencias. La UNGRD promueve su uso por todos los organismos de socorro y entidades que atienden emergencias.
 
 ### 3.3 Estructura Organizacional del SCI
 
@@ -201,51 +277,88 @@ El SCI es un sistema estandarizado de gestión en el lugar del incidente que per
          │                   │                   │
    ┌─────┴─────┐     ┌──────┴──────┐    ┌──────┴──────┐
    │ SECCIÓN   │     │  SECCIÓN    │    │  SECCIÓN    │
-   │OPERACIONES│     │ PLANIFICACIÓN│    │  LOGÍSTICA  │
+   │OPERACIONES│     │PLANIFICACIÓN│    │  LOGÍSTICA  │
    └───────────┘     └─────────────┘    └─────────────┘
          │
    ┌─────┴─────────────────┐
    │                       │
 ┌──┴───┐            ┌──────┴──────┐
 │RAMAS │            │   GRUPOS    │
-│      │            │             │
 └──────┘            └─────────────┘
 ```
 
-### 3.4 Funciones Principales en el SCI Ferroviario
+### 3.4 Funciones del SCI en Emergencia Ferroviaria Colombiana
 
-| Función | Responsabilidad | Personal Típico |
-|---------|----------------|-----------------|
-| **Comandante del Incidente** | Dirección general de la respuesta | Supervisor de mayor rango en sitio |
-| **Oficial de Seguridad** | Monitorear condiciones de seguridad para los respondedores | Especialista en seguridad |
-| **Oficial de Enlace** | Coordinación con agencias externas (bomberos, policía, ambulancias) | Representante de la empresa |
-| **Sección de Operaciones** | Ejecución táctica de la respuesta | Jefes de brigada, rescatistas |
-| **Sección de Planificación** | Recopilación de información, proyección del incidente | Analistas, despachadores |
-| **Sección de Logística** | Recursos, comunicaciones, suministros | Coordinador de recursos |
-| **Sección Administrativa** | Costos, documentación, reclamaciones | Personal administrativo |
+| Función | Responsabilidad | Quién lo asume (Colombia) |
+|---------|----------------|--------------------------|
+| **Comandante del Incidente** | Dirección general de la respuesta | Inicialmente: supervisor ferroviario. Luego puede transferirse a Bomberos o UNGRD |
+| **Oficial de Seguridad** | Monitorear seguridad de los respondedores | Profesional SST del operador ferroviario |
+| **Oficial de Enlace** | Coordinación interinstitucional | Representante del operador ante CMGRD |
+| **Sección de Operaciones** | Ejecución táctica | Bomberos, Cruz Roja, Defensa Civil |
+| **Sección de Planificación** | Información y proyección | Personal del CCO + UNGRD |
+| **Sección de Logística** | Recursos y comunicaciones | Coordinador logístico del operador |
+| **Sección Administrativa** | Costos y documentación | Área administrativa |
 
-### 3.5 Principios Fundamentales del SCI
+### 3.5 Coordinación con Entidades Colombianas
 
-1. **Terminología común:** Todos usan el mismo lenguaje
-2. **Mando unificado:** Una sola cadena de mando clara
+```
+EMERGENCIA FERROVIARIA
+         │
+         ▼
+┌─────────────────┐        ┌──────────────────────┐
+│ CCO del Operador │──────▶ │ Línea 123 (NUSE)     │
+│ (Centro Control) │        │ (Número Único de      │
+└────────┬────────┘        │  Seguridad y          │
+         │                  │  Emergencias)         │
+         │                  └──────────┬───────────┘
+         │                             │
+         ▼                             ▼
+┌─────────────────┐        ┌──────────────────────┐
+│ Gerencia/        │        │ Despacho de:          │
+│ Dirección del    │        │ • Bomberos            │
+│ Operador         │        │ • Policía Nacional    │
+│ Ferroviario      │        │ • Ambulancias (CRUE)  │
+└────────┬────────┘        │ • Defensa Civil       │
+         │                  │ • Cruz Roja           │
+         ▼                  └──────────┬───────────┘
+┌─────────────────┐                   │
+│ Supertransporte  │                   ▼
+│ ANI              │        ┌──────────────────────┐
+│ (Notificación    │        │ CMGRD / CDGRD         │
+│  regulatoria)    │        │ (Si se requiere       │
+└─────────────────┘        │  coordinación ampliada)│
+                            └──────────┬───────────┘
+                                       │
+                                       ▼
+                            ┌──────────────────────┐
+                            │ UNGRD Nacional        │
+                            │ (Si supera capacidad  │
+                            │  departamental)       │
+                            └──────────────────────┘
+```
+
+### 3.6 Principios del SCI (Aplicados en Colombia)
+
+1. **Terminología común:** Todos usan el mismo lenguaje (bomberil, médico, policial)
+2. **Mando unificado:** Especialmente importante en Colombia donde intervienen múltiples entidades
 3. **Alcance de control:** Máximo 7 subordinados por supervisor (ideal: 5)
-4. **Comunicaciones integradas:** Un solo plan de comunicaciones
-5. **Gestión integral de recursos:** Control centralizado de recursos
-6. **Planificación por objetivos:** Metas claras y medibles
-7. **Modularidad:** La estructura se expande o contrae según la necesidad
-8. **Transferencia de mando:** Proceso formal documentado
+4. **Comunicaciones integradas:** Frecuencia única o canal de coordinación
+5. **Gestión integral de recursos:** Control centralizado
+6. **Modularidad:** Se activa según la magnitud de la emergencia
+7. **Transferencia de mando:** Proceso formal documentado (el operador ferroviario transfiere a Bomberos/UNGRD cuando corresponde)
 
-### 3.6 Aplicación del SCI en Emergencias Ferroviarias
+### 3.7 Números de Emergencia en Colombia
 
-**Escenario:** Descarrilamiento con vagones volcados y posibles heridos
-
-| Fase | Acción SCI | Tiempo Estimado |
-|------|-----------|-----------------|
-| 0-5 min | Primer respondedor asume mando, evaluación inicial | Inmediato |
-| 5-15 min | Activación de secciones necesarias, notificación | Urgente |
-| 15-60 min | Establecimiento del Puesto de Comando, expansión de estructura | Expansión |
-| 1-4 hrs | Operación plena, relevos, planificación | Sostenimiento |
-| 4+ hrs | Transición a recuperación, desmontaje gradual | Desescalamiento |
+| Servicio | Número | Disponibilidad |
+|----------|--------|---------------|
+| **Número Único de Seguridad y Emergencias (NUSE)** | **123** | Nacional, 24/7, gratuito |
+| Bomberos | 119 | Nacional |
+| Cruz Roja | 132 | Nacional |
+| Defensa Civil | 144 | Nacional |
+| Policía Nacional | 112 | Nacional |
+| Tránsito y Transporte | #767 | Nacional |
+| Línea de Emergencias Ambientales | 018000-916112 | Nacional |
+| Centro Regulador de Urgencias y Emergencias (CRUE) | Varía por departamento | Departamental |
 
 ---
 
@@ -260,7 +373,7 @@ Al finalizar este módulo, el participante será capaz de:
 
 ### 4.2 Protocolo General de Respuesta (RAPCE)
 
-Todo personal ferroviario debe seguir el protocolo **RAPCE**:
+Todo personal ferroviario en Colombia debe seguir el protocolo **RAPCE**:
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -270,7 +383,7 @@ Todo personal ferroviario debe seguir el protocolo **RAPCE**:
 │   │ la situación inicial                                 │
 ├───┼─────────────────────────────────────────────────────┤
 │ A │ ALERTAR: Notificar al Centro de Control de          │
-│   │ Operaciones (CCO) inmediatamente                     │
+│   │ Operaciones (CCO) + Línea 123 si hay víctimas       │
 ├───┼─────────────────────────────────────────────────────┤
 │ P │ PROTEGER: Asegurar la zona, detener tráfico         │
 │   │ ferroviario adyacente, señalizar el área             │
@@ -278,27 +391,29 @@ Todo personal ferroviario debe seguir el protocolo **RAPCE**:
 │ C │ CONTENER: Controlar la situación dentro de sus      │
 │   │ capacidades (sin exponerse a riesgo)                 │
 ├───┼─────────────────────────────────────────────────────┤
-│ E │ ESPERAR/EVACUAR: Aguardar refuerzos o iniciar       │
-│   │ evacuación si hay peligro inminente                  │
+│ E │ ESPERAR/EVACUAR: Aguardar organismos de socorro     │
+│   │ o iniciar evacuación si hay peligro inminente        │
 └───┴─────────────────────────────────────────────────────┘
 ```
 
 ### 4.3 Protocolo de Parada de Emergencia
 
 **Situaciones que requieren parada inmediata:**
-- Obstáculo en la vía
+- Obstáculo en la vía (deslizamiento, vehículo, persona, animal)
 - Señal de peligro de otro tren o personal
 - Falla de frenos
 - Humo o fuego en el tren
 - Impacto o colisión
 - Orden del Centro de Control
+- Inundación visible sobre los rieles
 
-**Procedimiento del maquinista:**
+**Procedimiento del maquinista/operador:**
 1. Aplicar freno de emergencia
 2. Sonar bocina (señal de emergencia: una larga continua)
 3. Comunicar al CCO: posición, dirección, tipo de emergencia
 4. Cortar tracción
 5. Si es seguro, descender para evaluación
+6. Llamar a Línea 123 si hay víctimas o peligro a terceros
 
 ### 4.4 Protocolo de Protección de Zona
 
@@ -318,22 +433,25 @@ Todo personal ferroviario debe seguir el protocolo **RAPCE**:
 ```
 
 **Distancias mínimas de protección:**
-- Línea convencional: 800 metros en cada dirección
-- Alta velocidad: 2,000 metros en cada dirección
-- Zonas con visibilidad reducida: incrementar 50%
+- Línea convencional de carga: 800 metros en cada dirección
+- Sistemas metro/masivos: Según protocolo específico del operador
+- Zonas con visibilidad reducida (curvas, vegetación): incrementar 50%
+- Zonas de pendiente: incrementar según gradiente
 
 ### 4.5 Protocolo Específico: Descarrilamiento
 
 | Paso | Acción | Responsable |
 |------|--------|-------------|
-| 1 | Detener el tren (si aún en movimiento) | Maquinista |
+| 1 | Detener el tren (si aún en movimiento) | Maquinista/Operador |
 | 2 | Evaluar daños visibles desde cabina | Maquinista |
-| 3 | Notificar al CCO con datos: km, vía, vagones afectados | Maquinista |
+| 3 | Notificar al CCO: km, vía, vagones afectados | Maquinista |
 | 4 | CCO detiene tráfico en vías adyacentes | Despachador |
-| 5 | Si hay pasajeros, evaluar necesidad de evacuación | Maquinista/Jefe de tren |
-| 6 | Proteger la zona con señales de parada | Personal disponible |
-| 7 | NO mover el tren salvo orden del CCO | Todos |
-| 8 | Esperar equipos de emergencia | Todos |
+| 5 | Llamar Línea 123 si hay víctimas | Maquinista/Personal |
+| 6 | Si hay pasajeros, evaluar necesidad de evacuación | Jefe de tren |
+| 7 | Proteger la zona con señales de parada | Personal disponible |
+| 8 | NO mover el tren salvo orden del CCO | Todos |
+| 9 | Documentar con fotos si es seguro (para investigación) | Personal designado |
+| 10 | Esperar equipos de emergencia y Supertransporte | Todos |
 
 ### 4.6 Protocolo Específico: Incendio a Bordo
 
@@ -341,24 +459,42 @@ Todo personal ferroviario debe seguir el protocolo **RAPCE**:
 |------|--------|-------------|
 | 1 | Activar alarma de incendio | Quien detecte |
 | 2 | Localizar origen y evaluar magnitud | Tripulación |
-| 3 | Detener el tren (preferiblemente en zona abierta, NO en túnel) | Maquinista |
-| 4 | Notificar al CCO | Maquinista |
-| 5 | Intentar extinción con extintores portátiles si es seguro | Tripulación capacitada |
+| 3 | Detener tren en zona abierta (NO en túnel) | Maquinista |
+| 4 | Notificar al CCO + Línea 123 (Bomberos 119) | Maquinista |
+| 5 | Intentar extinción con extintores si es seguro | Tripulación capacitada |
 | 6 | Si no se controla: EVACUACIÓN INMEDIATA | Jefe de tren |
 | 7 | Alejar pasajeros mínimo 100m del tren | Todo el personal |
-| 8 | Cortar suministro eléctrico de catenaria (solicitar al CCO) | CCO/Subestación |
+| 8 | Cortar suministro eléctrico (solicitar al CCO) | CCO/Subestación |
 
-### 4.7 Protocolo Específico: Amenaza de Bomba
+### 4.7 Protocolo Específico: Deslizamiento de Tierra sobre la Vía
+
+> **Nota:** Este protocolo es particularmente relevante para Colombia debido a la topografía montañosa y las temporadas de lluvias.
+
+| Paso | Acción | Responsable |
+|------|--------|-------------|
+| 1 | Detener el tren inmediatamente al observar material sobre la vía | Maquinista |
+| 2 | NO intentar cruzar el obstáculo | Maquinista |
+| 3 | Evaluar si hay riesgo de nuevo deslizamiento (observar ladera) | Maquinista |
+| 4 | Reportar al CCO: ubicación exacta, magnitud estimada | Maquinista |
+| 5 | Si hay riesgo adicional: retroceder a zona segura (autorización CCO) | Maquinista |
+| 6 | CCO notifica a INVÍAS/ANI para evaluación geotécnica | CCO |
+| 7 | Si hay pasajeros: mantener informados, evaluar evacuación | Personal a bordo |
+| 8 | Esperar evaluación técnica antes de cualquier movimiento | Todos |
+
+### 4.8 Protocolo Específico: Amenaza de Bomba / Orden Público
+
+> **Contexto colombiano:** Dada la historia del conflicto armado, este protocolo requiere coordinación especial con la Policía Nacional y Fuerzas Militares.
 
 | Paso | Acción | Responsable |
 |------|--------|-------------|
 | 1 | NO tocar objetos sospechosos | Todos |
-| 2 | Notificar inmediatamente al CCO | Quien reciba la amenaza |
-| 3 | CCO notifica a policía y servicios especializados | CCO |
-| 4 | Detener el tren en zona abierta | Maquinista (orden CCO) |
+| 2 | Notificar inmediatamente al CCO | Quien detecte/reciba amenaza |
+| 3 | CCO llama a Línea 123 → Policía Nacional (GAULA/Antiexplosivos) | CCO |
+| 4 | Detener el tren en zona abierta (orden CCO) | Maquinista |
 | 5 | Evacuación ordenada, alejarse mínimo 300m | Todo el personal |
-| 6 | NO usar radios cerca del objeto sospechoso | Todos |
-| 7 | Acordonar zona, esperar equipo antiexplosivos | Seguridad |
+| 6 | NO usar radios/celulares cerca del objeto sospechoso | Todos |
+| 7 | Acordonar zona hasta arribo de antiexplosivos PONAL | Seguridad |
+| 8 | Colaborar con las autoridades en su investigación | Operador |
 
 ---
 
@@ -367,9 +503,10 @@ Todo personal ferroviario debe seguir el protocolo **RAPCE**:
 
 ### 5.1 Objetivos de Aprendizaje
 Al finalizar este módulo, el participante será capaz de:
-- Ejecutar una evacuación segura de pasajeros en diferentes escenarios
-- Aplicar técnicas de primeros auxilios básicos
+- Ejecutar una evacuación segura en diferentes escenarios del entorno colombiano
+- Aplicar técnicas de primeros auxilios básicos (Primer Respondedor)
 - Realizar el triage (clasificación) de víctimas
+- Coordinar con el CRUE departamental
 
 ### 5.2 Principios de Evacuación
 
@@ -378,63 +515,75 @@ Al finalizar este módulo, el participante será capaz de:
 **Situaciones que requieren evacuación inmediata:**
 - Incendio incontrolable
 - Riesgo de explosión
-- Inundación del tren
+- Inundación del tren (especialmente en época de lluvias)
 - Derrame tóxico con afectación al interior
-- Inestabilidad estructural del tren
+- Inestabilidad del terreno (riesgo de nuevo deslizamiento)
 
-**Situaciones donde NO se debe evacuar:**
-- Tren detenido en túnel sin incendio (esperar instrucciones)
-- Vías electrificadas con catenaria dañada/caída
-- Tren detenido en puente o viaducto (salvo peligro inminente)
+**Situaciones donde NO se debe evacuar (esperar instrucciones):**
+- Tren detenido en túnel sin incendio
 - Proximidad de otro tren en vía adyacente
+- Zona con riesgo de electrocución
+- Zona de ladera inestable sin ruta segura de evacuación
+- Presencia de grupos armados en la zona (coordinar con Fuerza Pública)
 
 ### 5.3 Procedimiento de Evacuación
 
 ```
 FASE 1: PREPARACIÓN (30 segundos - 2 minutos)
-├── Anuncio por megafonía: "Atención pasajeros, se procederá 
-│   a la evacuación del tren. Mantengan la calma..."
+├── Anuncio por megafonía/viva voz: "Atención señores pasajeros,
+│   se procederá a la evacuación del tren. Mantengan la calma..."
 ├── Indicar salidas disponibles
-├── Verificar que catenaria esté desenergizada (si aplica)
+├── Verificar que el sistema eléctrico esté desenergizado (si aplica)
 └── Confirmar lado seguro de descenso con CCO
 
 FASE 2: EJECUCIÓN
 ├── Abrir puertas del lado seguro
 ├── Desplegar escaleras/rampas de emergencia
 ├── Asistir primero a: personas con movilidad reducida,
-│   niños, ancianos, heridos
+│   niños, adultos mayores, mujeres embarazadas, heridos
 ├── Mantener flujo ordenado
-└── Conteo de pasajeros vs. manifiesto
+└── Conteo de pasajeros
 
 FASE 3: CONCENTRACIÓN
 ├── Dirigir pasajeros al punto de reunión (mín. 50m de la vía)
-├── Mantener grupo unido
+├── En zonas rurales: buscar terreno plano y estable
 ├── Segundo conteo de pasajeros
-└── Reportar al CCO: número de evacuados, heridos, desaparecidos
+├── Reportar al CCO: número evacuados, heridos, desaparecidos
+└── Esperar arribo de organismos de socorro
 ```
 
-### 5.4 Evacuación en Escenarios Especiales
+### 5.4 Evacuación en Escenarios Especiales (Contexto Colombiano)
+
+#### Evacuación en Zonas de Ladera
+- Evaluar estabilidad del terreno antes de descender
+- NO descender por el lado de la ladera si hay señales de inestabilidad
+- Buscar plataformas o zonas planas
+- Tener cuidado con el terreno húmedo (alto riesgo en temporada de lluvias)
+- Si hay riesgo de nuevo deslizamiento, evacuar ALEJÁNDOSE de la ladera
+
+#### Evacuación en Zonas Inundables
+- Si hay agua sobre la vía, NO descender si el nivel supera las rodillas
+- Corrientes de agua pueden ser más fuertes de lo que aparentan
+- Esperar apoyo de Bomberos/Defensa Civil
+- En zonas del Magdalena Medio: atención a crecientes súbitas
 
 #### Evacuación en Túnel
 - Caminar SIEMPRE en dirección contraria al humo
-- Utilizar iluminación de emergencia del túnel
+- Utilizar iluminación de emergencia
 - Buscar nichos de seguridad y galerías de evacuación
 - NO correr (riesgo de caídas y pánico)
 - Cubrir nariz y boca con tela húmeda si hay humo
 
-#### Evacuación en Viaducto/Puente
-- Solo si hay peligro inminente (incendio, colapso)
-- Utilizar pasarelas de servicio si existen
-- Evacuar hacia el extremo más cercano a tierra firme
-- Nunca saltar
+#### Evacuación en Zonas Rurales Aisladas
+- Puede no haber acceso vehicular inmediato
+- Coordinar con CCO punto de encuentro más accesible
+- Considerar helitransporte para heridos graves (CRUE)
+- Mantener grupo unido (riesgos fauna, terreno irregular)
+- Precaución con fauna silvestre (serpientes en zonas cálidas)
 
-#### Evacuación con Catenaria Dañada
-- **PROHIBIDO** descender hasta confirmar desenergización
-- Distancia mínima de seguridad: 3 metros de cables caídos
-- La catenaria puede tener 25,000 voltios
-- Considerar "tensión de paso" en suelo mojado
+### 5.5 Primer Respondedor y Primeros Auxilios
 
-### 5.5 Primeros Auxilios en el Entorno Ferroviario
+> **Marco legal:** En Colombia, la Resolución 926 de 2017 del Ministerio de Salud establece lineamientos para la formación de Primer Respondedor.
 
 #### Triage START (Simple Triage and Rapid Treatment)
 
@@ -454,18 +603,16 @@ FASE 3: CONCENTRACIÓN
 │          │ (fracturas, quemaduras moderadas)        │
 ├──────────┼─────────────────────────────────────────┤
 │  VERDE   │ Menor - Puede esperar, ambulatorio     │
-│          │ (contusiones, cortes menores, shock     │
+│          │ (contusiones, cortes menores, crisis    │
 │          │ emocional)                               │
 └──────────┴─────────────────────────────────────────┘
 ```
 
-#### Lesiones Más Comunes en Accidentes Ferroviarios
-1. **Traumatismos por desaceleración:** Lesiones internas por la inercia
-2. **Fracturas:** Extremidades, columna, pelvis
-3. **Heridas por objetos proyectados:** Vidrios, equipaje, estructuras
-4. **Quemaduras:** Incendio, electricidad, fricción
-5. **Aplastamiento:** Atrapamiento entre estructuras
-6. **Inhalación de humo:** En incendios en espacios confinados
+#### Coordinación con Sistema de Salud Colombiano
+- Activar el CRUE (Centro Regulador de Urgencias y Emergencias) departamental
+- El CRUE coordina la distribución de pacientes a hospitales según capacidad
+- En zonas rurales: considerar tiempos de respuesta de ambulancias (pueden ser >60 min)
+- Helicópteros medicalizados disponibles en ciudades principales
 
 #### Kit de Primeros Auxilios Ferroviario (contenido mínimo)
 - Torniquetes (x2)
@@ -478,49 +625,61 @@ FASE 3: CONCENTRACIÓN
 - Mascarillas de RCP
 - Cinta adhesiva médica
 - Solución salina para lavado
+- Repelente de insectos (zonas cálidas y selváticas)
+- Suero antiofídico (disponible en puestos de salud cercanos)
 
 ---
 
 
-## MÓDULO 6: MATERIALES PELIGROSOS (HAZMAT) EN EL FERROCARRIL {#módulo-6}
+## MÓDULO 6: MATERIALES PELIGROSOS (MATPEL) EN EL FERROCARRIL {#módulo-6}
 
 ### 6.1 Objetivos de Aprendizaje
 Al finalizar este módulo, el participante será capaz de:
-- Identificar materiales peligrosos transportados por ferrocarril
-- Interpretar placas y documentación de HAZMAT
+- Identificar materiales peligrosos transportados por ferrocarril en Colombia
+- Interpretar placas, rótulos y documentación de MATPEL según normativa colombiana
 - Aplicar protocolos de respuesta ante derrames o fugas
 
-### 6.2 El Transporte Ferroviario de Materiales Peligrosos
+### 6.2 MATPEL en el Transporte Ferroviario Colombiano
 
-El ferrocarril transporta una gran variedad de materiales peligrosos. La identificación rápida es crucial para la respuesta adecuada.
+#### Principales Materiales Transportados por Ferrocarril en Colombia
 
-#### Sistema de Placas (Rombos de identificación)
+| Material | Corredor | Volumen |
+|----------|----------|---------|
+| **Carbón** | Chiriguaná - Santa Marta (Fenoco/Drummond) | Alto (millones de toneladas/año) |
+| **Carbón** | La Loma - Santa Marta | Alto |
+| **Hidrocarburos** | Diversos corredores | Medio |
+| **Cemento** | Zonas industriales | Medio |
+| **Productos agrícolas** | Valle del Cauca, Magdalena | Medio |
+
+> **Dato Colombia:** El corredor férreo para carbón hacia los puertos del Atlántico es el sistema ferroviario de carga más activo del país. La ANI ha invertido más de US$28 millones en mantenimiento y mejora de la línea. Fuente: [Railway Journal](https://www.railjournal.com/freight/colombia-reports-improved-freight-performance-on-key-corridor/)
+
+#### Normativa MATPEL en Colombia
+
+| Norma | Contenido |
+|-------|-----------|
+| Decreto 1609 de 2002 | Manejo y transporte terrestre de mercancías peligrosas |
+| NTC 1692 | Clasificación, etiquetado y rotulado de mercancías peligrosas |
+| Tarjeta de emergencia | Obligatoria para cada vehículo que transporte MATPEL |
+| Hoja de seguridad (MSDS) | Debe acompañar todo despacho de MATPEL |
+
+### 6.3 Sistema de Identificación MATPEL
+
+#### Rombo NFPA 704 y Placas ONU
 
 ```
          ┌───────┐
-        /    1    \        Clase 1: Explosivos (naranja)
-       /           \       Clase 2: Gases (verde/rojo/blanco)
-      └─────────────┘      Clase 3: Líquidos inflamables (rojo)
-      ┌─────────────┐      Clase 4: Sólidos inflamables (rojo/blanco rayas)
-       \           /       Clase 5: Oxidantes (amarillo)
-        \   UN    /        Clase 6: Tóxicos (blanco)
-         └───────┘         Clase 7: Radiactivos (amarillo/blanco)
-       Número UN           Clase 8: Corrosivos (blanco/negro)
-                           Clase 9: Misceláneos (blanco)
+        / ROJO   \        ROJO: Inflamabilidad (0-4)
+       /  (arriba) \       AZUL: Salud (0-4)
+      └─────────────┘      AMARILLO: Reactividad (0-4)
+      AZUL │ │ AMARILLO    BLANCO: Riesgos especiales
+      (izq) │ (der)        
+      ┌─────────────┐      
+       \  BLANCO   /       Número UN: Identifica el material
+        \ (abajo) /        específico a nivel mundial
+         └───────┘         
 ```
 
-#### Guía de Respuesta en Caso de Emergencia (GRE)
-
-La Guía de Respuesta en Caso de Emergencia es el recurso principal para la primera respuesta ante incidentes con materiales peligrosos.
-
-**Pasos para usar la GRE:**
-1. Identificar el material (placa, número UN, nombre)
-2. Buscar en la tabla de materiales (páginas amarillas o azules)
-3. Localizar el número de guía correspondiente
-4. Seguir las instrucciones de la guía (páginas naranjas)
-5. Verificar distancias de aislamiento (páginas verdes)
-
-### 6.3 Zonas de Seguridad HAZMAT
+### 6.4 Zonas de Seguridad MATPEL
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -531,57 +690,58 @@ La Guía de Respuesta en Caso de Emergencia es el recurso principal para la prim
 │    │    │                                       │        │        │
 │    │    │    ┌─────────────────────┐           │        │        │
 │    │    │    │   ZONA CALIENTE     │           │        │        │
-│    │    │    │   (Solo personal    │           │        │        │
-│    │    │    │    HAZMAT con EPP)  │           │        │        │
+│    │    │    │   (Solo MATPEL con  │           │        │        │
+│    │    │    │    EPP completo)    │           │        │        │
 │    │    │    └─────────────────────┘           │        │        │
 │    │    │         ZONA TIBIA                    │        │        │
-│    │    │    (Descontaminación, EPP nivel B)    │        │        │
+│    │    │    (Descontaminación)                 │        │        │
 │    │    └─────────────────────────────────────┘         │        │
 │    │              ZONA FRÍA                              │        │
-│    │    (Puesto de comando, logística, triage)          │        │
+│    │    (Puesto de comando, triage, logística)          │        │
 │    └───────────────────────────────────────────────────┘         │
 │                    ZONA DE EXCLUSIÓN PÚBLICA                      │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### 6.4 Distancias de Aislamiento Inicial
+### 6.5 Procedimiento de Respuesta MATPEL para Personal Ferroviario
 
-| Tipo de Material | Día (aislamiento) | Noche (aislamiento) |
-|-----------------|-------------------|---------------------|
-| Gases tóxicos (cloro) | 800m | 3,200m |
-| Líquidos inflamables | 300m | 800m |
-| Explosivos | 1,600m | 1,600m |
-| Materiales radiactivos | 100m+ según lectura | 100m+ según lectura |
+**REGLA #1: El personal ferroviario NO es respondedor MATPEL.** Su función es:
 
-> **IMPORTANTE:** Estas son distancias INICIALES. Se ajustan según condiciones meteorológicas, topografía y cantidad de material.
-
-### 6.5 Procedimiento de Respuesta HAZMAT para Personal Ferroviario
-
-**REGLA #1: El personal ferroviario NO es respondedor HAZMAT.** Su función es:
-
-1. **RECONOCER** el peligro (placas, olores, humo coloreado)
-2. **RETIRARSE** a favor del viento, cuesta arriba
-3. **REPORTAR** al CCO: qué material, cantidad estimada, dirección del viento
-4. **RESTRINGIR** el acceso a la zona
-5. **REFERIR** a equipos especializados HAZMAT
+1. **RECONOCER** el peligro (placas, olores, humo coloreado, líquido en el suelo)
+2. **RETIRARSE** a favor del viento (en Colombia considerar vientos alisios y brisas locales)
+3. **REPORTAR** al CCO + Línea 123: qué material, cantidad estimada, dirección del viento
+4. **RESTRINGIR** el acceso a la zona (alertar a comunidades cercanas)
+5. **REFERIR** a equipos MATPEL especializados (Bomberos con capacidad MATPEL)
 
 **Nunca hacer:**
 - ❌ Intentar sellar fugas
 - ❌ Caminar sobre o a través de derrames
 - ❌ Inhalar vapores para "identificar" el material
 - ❌ Tocar contenedores dañados
-- ❌ Usar agua sin saber el material (reacciones peligrosas)
+- ❌ Usar agua sin saber el material (puede empeorar)
+- ❌ Permitir que personas de la comunidad se acerquen
+
+### 6.6 Riesgos Específicos del Carbón (Contexto Colombiano)
+
+El carbón, aunque no se clasifica formalmente como MATPEL en su estado natural, presenta riesgos:
+
+| Riesgo | Descripción | Mitigación |
+|--------|-------------|-----------|
+| Combustión espontánea | Carbón puede auto-inflamarse por calentamiento interno | Monitoreo de temperatura, ventilación |
+| Polvo de carbón | Explosivo en concentraciones en aire confinado | Control de polvo, no generar chispas |
+| Contaminación hídrica | Escorrentía de carbón contamina fuentes de agua | Protección de cuerpos de agua cercanos |
+| Afectación respiratoria | Inhalación prolongada de polvo | Uso de protección respiratoria |
 
 ---
 
 
-## MÓDULO 7: COMUNICACIÓN EN CRISIS {#módulo-7}
+## MÓDULO 7: COMUNICACIÓN EN CRISIS Y COORDINACIÓN INSTITUCIONAL {#módulo-7}
 
 ### 7.1 Objetivos de Aprendizaje
 Al finalizar este módulo, el participante será capaz de:
 - Transmitir información clara y precisa durante una emergencia
-- Utilizar la fraseología estándar de comunicaciones ferroviarias
-- Coordinar comunicaciones entre múltiples agencias
+- Coordinar comunicaciones con las entidades del SNGRD colombiano
+- Manejar la comunicación con la comunidad y medios
 
 ### 7.2 Principios de Comunicación en Emergencias
 
@@ -592,20 +752,23 @@ Al finalizar este módulo, el participante será capaz de:
 4. **Completa:** Toda la información necesaria para actuar
 5. **Confirmada:** Siempre solicitar acuse de recibo
 
-### 7.3 Formato de Reporte Inicial de Emergencia
+### 7.3 Formato de Reporte Inicial de Emergencia (Adaptado a Colombia)
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║            FORMATO DE REPORTE DE EMERGENCIA                  ║
+║         (Para comunicar al CCO y Línea 123)                  ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  "CCO, aquí [identificación], reporto emergencia"           ║
+║  "CCO / Línea 123, reporto emergencia ferroviaria"          ║
 ║                                                              ║
 ║  1. QUÉ: Tipo de emergencia                                 ║
 ║     "Descarrilamiento / Colisión / Incendio / Derrame..."   ║
 ║                                                              ║
 ║  2. DÓNDE: Ubicación exacta                                 ║
-║     "Kilómetro ___, vía ___, entre estaciones ___ y ___"    ║
+║     "Kilómetro ___, corredor ___, municipio de ___,         ║
+║      departamento de ___"                                    ║
+║     (Si es posible: coordenadas GPS)                        ║
 ║                                                              ║
 ║  3. CUÁNDO: Hora del evento                                  ║
 ║     "Ocurrió a las ___:___ horas"                           ║
@@ -617,59 +780,66 @@ Al finalizar este módulo, el participante será capaz de:
 ║     "Hay/no hay personas heridas. Estimación: ___"          ║
 ║                                                              ║
 ║  6. NECESIDADES: Recursos requeridos                         ║
-║     "Se requiere: ambulancias / bomberos / HAZMAT / grúa"   ║
+║     "Se requiere: ambulancias / bomberos / MATPEL / grúa"   ║
 ║                                                              ║
-║  7. RIESGOS: Peligros adicionales                            ║
-║     "Riesgo de: explosión / electrocución / derrumbe"       ║
+║  7. ACCESO: Cómo llegar al sitio                             ║
+║     "Acceso por vía ___, desde el municipio de ___"         ║
+║     (Fundamental en zonas rurales colombianas)              ║
+║                                                              ║
+║  8. RIESGOS: Peligros adicionales                            ║
+║     "Riesgo de: deslizamiento / inundación / electrocución" ║
 ║                                                              ║
 ║  "Fin del reporte. Solicito acuse de recibo"                ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### 7.4 Fraseología Estándar de Emergencia
-
-| Frase | Significado |
-|-------|-------------|
-| "EMERGENCIA, EMERGENCIA, EMERGENCIA" | Prefijo para comunicación de máxima prioridad |
-| "PROTECCIÓN INMEDIATA" | Detener todo tráfico en la zona |
-| "CONFIRMADO" | Mensaje recibido y entendido |
-| "REPITA" | Solicitud de repetición del mensaje |
-| "CORRECCIÓN" | Se va a corregir información errónea |
-| "CANCELAR" | Anular instrucción previa |
-| "PRIORIDAD" | Mensaje urgente pero no de emergencia |
-| "FUERA" | Fin de la comunicación |
-
-### 7.5 Cadena de Comunicación
+### 7.4 Cadena de Comunicación en Colombia
 
 ```
-EVENTO → Primer respondedor → CCO (Centro Control)
+EVENTO → Primer respondedor → CCO (Centro Control Operador)
                                     │
                     ┌───────────────┼───────────────┐
                     │               │               │
-              Servicios de    Dirección de    Autoridades
-              Emergencia      Operaciones     Reguladoras
-              (911/112)           │
-                    │         ┌───┴───┐
-                    │         │       │
-              ┌─────┴─────┐  Prensa  Familias
-              │           │
-          Bomberos    Policía
-          Ambulancias
+              Línea 123       Gerencia del     Supertransporte
+              (NUSE)          Operador          / ANI
+                    │               │
+           ┌───────┴───────┐       │
+           │               │       ▼
+      Bomberos 119    CRUE      CMGRD/CDGRD
+      Policía 112   (ambulancias)    │
+      Defensa Civil 144              ▼
+      Cruz Roja 132             UNGRD Nacional
+                                (si se requiere)
 ```
 
-### 7.6 Comunicación con Pasajeros
+### 7.5 Comunicación con la Comunidad
 
-**Durante la emergencia (megafonía a bordo):**
+> **Contexto Colombia:** En muchas zonas rurales por donde transitan trenes de carga, las comunidades viven cerca de la vía y pueden verse directamente afectadas por un incidente.
 
-> "Atención señores pasajeros. Hemos tenido un incidente que requiere la detención del tren. Mantengan la calma y permanezcan en sus asientos. El personal de a bordo les proporcionará información y asistencia. Por favor, no intenten abrir las puertas ni descender del tren hasta que se les indique. Gracias por su cooperación."
+**Responsabilidades de comunicación a la comunidad:**
+- Alertar a residentes cercanos si hay riesgo (derrame, incendio, explosión)
+- Usar lenguaje sencillo y directo
+- Indicar rutas de evacuación y puntos seguros
+- Si no hay megafonía: usar bocina del tren como señal de alerta
+- Coordinar con líderes comunitarios y Juntas de Acción Comunal (JAC)
 
-**Principios para comunicar con pasajeros:**
-- Informar pronto (aunque sea información parcial)
-- Ser honesto pero no alarmista
-- Dar instrucciones claras y específicas
-- Actualizar regularmente (cada 5-10 minutos)
-- Mostrar control y profesionalismo
+**Comunicación con pasajeros (sistemas masivos tipo Metro):**
+
+> "Atención señores usuarios. Tenemos una novedad operativa que requiere la detención temporal del servicio. Por favor mantengan la calma y sigan las instrucciones del personal. No intenten abrir las puertas ni descender hasta que se les indique. Gracias por su comprensión."
+
+### 7.6 Comunicación con Medios de Comunicación
+
+**En Colombia, solo personas autorizadas deben comunicarse con medios:**
+- Vocero oficial del operador ferroviario
+- UNGRD (si es emergencia mayor)
+- Gobernador/Alcalde (según nivel de la emergencia)
+
+**El personal operativo NO debe:**
+- Dar declaraciones a periodistas sin autorización
+- Publicar fotos o videos en redes sociales
+- Especular sobre causas del accidente
+- Dar cifras de víctimas sin confirmación oficial
 
 ---
 
@@ -679,328 +849,241 @@ EVENTO → Primer respondedor → CCO (Centro Control)
 ### 8.1 Objetivos de Aprendizaje
 Al finalizar este módulo, el participante será capaz de:
 - Analizar accidentes ferroviarios reales e identificar causas raíz
-- Extraer lecciones aprendidas aplicables a su entorno
+- Extraer lecciones aprendidas aplicables al contexto colombiano
 - Reconocer las fallas sistémicas que conducen a accidentes
 
-> **Nota pedagógica:** Los casos se presentan no para señalar culpables, sino para APRENDER. Cada accidente es una oportunidad de mejora para toda la industria.
+> **Nota pedagógica:** Los casos se presentan para APRENDER, no para señalar culpables. Cada accidente es una oportunidad de mejora para toda la industria ferroviaria, incluida la colombiana.
 
 ---
 
 ### CASO 1: DESCARRILAMIENTO DE SANTIAGO DE COMPOSTELA, ESPAÑA (2013)
+#### Relevancia para Colombia: Factor humano y transiciones tecnológicas
 
 #### Datos del Evento
 | Campo | Detalle |
 |-------|---------|
 | **Fecha** | 24 de julio de 2013 |
-| **Lugar** | Curva de Angrois, 4 km antes de la estación de Santiago de Compostela, España |
+| **Lugar** | Curva de Angrois, Santiago de Compostela, España |
 | **Tren** | Alvia serie 730 (Madrid-Ferrol) |
 | **Víctimas** | 79 fallecidos, 144 heridos |
-| **Causa** | Exceso de velocidad en curva (190 km/h en tramo limitado a 80 km/h) |
+| **Causa** | Exceso de velocidad en curva (190 km/h en zona de 80 km/h) |
 
-#### Descripción del Accidente
-El tren Alvia que cubría la ruta Madrid-Ferrol entró en una curva cerrada a una velocidad muy superior a la permitida. El tren descarriló y varios vagones impactaron contra un muro de contención. El maquinista estaba hablando por teléfono con el interventor del tren momentos antes de la curva y no redujo la velocidad a tiempo.
+#### Descripción
+El tren entró en una curva cerrada al doble de la velocidad permitida. El maquinista estaba hablando por teléfono y no redujo la velocidad. El tren descarriló y varios vagones impactaron contra un muro.
 
 #### Análisis de Causas
+- Distracción del maquinista (comunicación no esencial)
+- Transición entre dos sistemas de señalización (uno protegía contra exceso de velocidad, el otro no)
+- Dependencia excesiva del factor humano en punto crítico
+- Ausencia de redundancia tecnológica
 
-```
-CAUSA INMEDIATA:
-└── Velocidad excesiva (190 km/h en zona de 80 km/h)
-
-CAUSAS CONTRIBUYENTES:
-├── Distracción del maquinista (llamada telefónica)
-├── Transición de tramo con ERTMS a tramo con ASFA (sistema menos protector)
-├── Ausencia de sistema de frenado automático en ese punto
-├── Diseño del trazado (curva severa cerca de estación)
-└── Falta de redundancia en sistemas de seguridad
-
-FALLAS SISTÉMICAS:
-├── No se evaluó adecuadamente el riesgo de la transición de sistemas
-├── Dependencia excesiva del factor humano en punto crítico
-└── Ausencia de barreras tecnológicas de respaldo
-```
-
-#### Respuesta a la Emergencia
-- Los servicios de emergencia tardaron aproximadamente 10 minutos en llegar
-- Se activó el plan de emergencias de Protección Civil de Galicia
-- Vecinos de la zona fueron los primeros en asistir a las víctimas
-- Se estableció un hospital de campaña en las inmediaciones
-- La coordinación multi-agencia fue considerada efectiva
-
-#### Lecciones Aprendidas
-1. **Tecnología:** Se aceleró la implementación del sistema ERTMS nivel 2 en toda la red
-2. **Procedimiento:** Se prohibieron las comunicaciones no esenciales del maquinista en zonas de velocidad variable
-3. **Diseño:** Se revisaron todos los puntos de transición entre sistemas de señalización
-4. **Redundancia:** Se instalaron balizas de velocidad máxima antes de curvas críticas
-5. **Factor humano:** No puede ser la única barrera de seguridad
+#### Lecciones para Colombia
+1. **Metro de Bogotá y RegioTram:** Los puntos de transición entre sistemas deben tener protección automática redundante
+2. **Formación:** Las comunicaciones no esenciales del operador deben prohibirse en zonas críticas
+3. **Diseño:** No depender de un solo operador humano como última barrera de seguridad
+4. **SG-SST:** Incluir controles para fatiga y distracción del personal operativo
 
 #### Pregunta para Discusión
-> ¿Cuántas barreras de seguridad deberían existir entre un error humano y una catástrofe? ¿En su sistema ferroviario, existen puntos donde el factor humano es la única defensa?
+> ¿En la operación ferroviaria colombiana, existen puntos donde el factor humano sea la ÚNICA barrera contra un accidente? ¿Qué redundancias tecnológicas se están implementando?
 
-**Fuentes:** [Cambridge University Press - Prehospital and Disaster Medicine](https://www.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/2013-santiago-de-compostela-train-crash-highspeed-derailment-medical-trauma-and-psychological-aftermath/872BDF80E655429E848FFCE72D0D4CE0)
+**Fuente:** [Cambridge University Press - Prehospital and Disaster Medicine](https://www.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/2013-santiago-de-compostela-train-crash-highspeed-derailment-medical-trauma-and-psychological-aftermath/872BDF80E655429E848FFCE72D0D4CE0)
 
 ---
 
-
 ### CASO 2: DESASTRE DE LAC-MÉGANTIC, CANADÁ (2013)
+#### Relevancia para Colombia: Transporte de materiales peligrosos por zonas pobladas
 
 #### Datos del Evento
 | Campo | Detalle |
 |-------|---------|
 | **Fecha** | 6 de julio de 2013 |
 | **Lugar** | Lac-Mégantic, Quebec, Canadá |
-| **Tren** | Tren de carga MMA-002 (Montreal, Maine & Atlantic Railway) |
-| **Carga** | 72 vagones cisterna con petróleo crudo (clase 3) |
+| **Tren** | Tren de carga MMA-002, 72 vagones cisterna con petróleo crudo |
 | **Víctimas** | 47 fallecidos |
-| **Causa** | Tren fugado (runaway) que descarriló en el centro del pueblo |
+| **Causa** | Tren fugado (runaway) que descarriló en centro poblado |
 
-#### Descripción del Accidente
-Un tren de carga con 72 vagones cisterna llenos de petróleo crudo fue estacionado en una pendiente a unos 12 km del pueblo de Lac-Mégantic. Durante la noche, los frenos fallaron y el tren se desplazó sin control cuesta abajo hacia el centro del pueblo, donde descarriló. Los vagones cisterna se rompieron y el petróleo se incendió, causando una explosión masiva que destruyó el centro comercial de la localidad.
+#### Descripción
+Un tren de carga con 72 vagones cisterna de petróleo fue estacionado en una pendiente sin suficientes frenos aplicados. Durante la noche los frenos fallaron y el tren se desplazó sin control hacia el pueblo, donde descarriló y explotó, destruyendo el centro comercial.
 
 #### Análisis de Causas
+- Insuficientes frenos de mano aplicados
+- Un solo tripulante a cargo del tren
+- Vagones con diseño antiguo fácilmente perforable
+- Falta de comunicación entre bomberos y la empresa ferroviaria
+- Regulación permisiva sobre estacionamiento en pendientes
 
-```
-CAUSA INMEDIATA:
-└── Tren sin frenos adecuados se desplazó por gravedad hacia la población
-
-CAUSAS CONTRIBUYENTES:
-├── Número insuficiente de frenos de mano aplicados (7 en vez de 9+)
-├── Motor locomotora apagado por bomberos (atendían un incendio en el motor)
-│   └── El motor mantenía presión en los frenos de aire
-├── Un solo tripulante a cargo del tren (práctica de la empresa)
-├── Vagones DOT-111 (diseño antiguo, fácilmente perforable)
-└── Falta de supervisión al dejar tren estacionado en pendiente
-
-FALLAS SISTÉMICAS:
-├── Regulación permisiva sobre trenes de un solo operador
-├── No existía requisito de dispositivos de bloqueo de ruedas en pendientes
-├── Vagones cisterna con estándar de seguridad obsoleto
-├── Falta de comunicación entre bomberos y empresa ferroviaria
-└── Ausencia de evaluación de riesgo para estacionamiento en pendientes
-```
-
-#### Respuesta a la Emergencia
-- La magnitud del incendio superó la capacidad de respuesta local
-- Se requirió asistencia de múltiples municipios
-- Evacuación de 2,000 residentes
-- El fuego duró más de 2 días
-- Se contaminaron fuentes de agua de la población
-- Intervención de equipos HAZMAT provinciales y federales
-
-#### Lecciones Aprendidas
-1. **Regulación:** Canadá y EE.UU. actualizaron normas sobre estacionamiento de trenes en pendientes
-2. **Vagones:** Se ordenó el reemplazo progresivo de vagones DOT-111 por el nuevo estándar DOT-117
-3. **Operación:** Se prohibió dejar trenes de mercancías peligrosas sin vigilancia en vía principal
-4. **Comunicación:** Se establecieron protocolos de comunicación obligatoria entre servicios de emergencia y operadores ferroviarios
-5. **Planificación urbana:** Se recomendó revisar la proximidad de rutas ferroviarias HAZMAT a zonas pobladas
-6. **Cultura de seguridad:** La empresa fue declarada negligente y quebró
+#### Lecciones para Colombia
+1. **Corredores de carga colombianos:** La topografía montañosa de Colombia hace que las pendientes sean un riesgo constante. ¿Hay protocolos claros de aseguramiento en paradas?
+2. **Cercanía a poblaciones:** Muchas comunidades colombianas viven pegadas a la línea férrea (asentamientos informales). Un accidente similar sería catastrófico
+3. **Decreto 1609 de 2002:** La normativa MATPEL colombiana debe aplicarse rigurosamente al modo férreo
+4. **Coordinación Bomberos-Operador:** Protocolos de comunicación entre Bomberos y empresas ferroviarias deben ser claros y practicados
+5. **Vigilancia nocturna:** Trenes con carga peligrosa no deben quedar sin supervisión
 
 #### Pregunta para Discusión
-> ¿En su operación, existen tramos donde trenes con materiales peligrosos se estacionan cerca de poblaciones? ¿Qué medidas de seguridad adicionales se podrían implementar?
+> En los corredores férreos de carga en Colombia (ej: La Dorada-Chiriguaná), ¿existen comunidades cercanas a la vía que estarían en riesgo ante un incidente con carga peligrosa? ¿Qué planes de evacuación existen para ellas?
 
 **Fuente:** [The Canadian Encyclopedia - Lac-Mégantic Rail Disaster](https://thecanadianencyclopedia.ca/en/article/lac-megantic-rail-disaster)
 
 ---
 
-### CASO 3: TRIPLE COLISIÓN DE BALASORE (ODISHA), INDIA (2023)
+### CASO 3: TRIPLE COLISIÓN DE BALASORE, INDIA (2023)
+#### Relevancia para Colombia: Sistemas de señalización y capacidad de respuesta masiva
 
 #### Datos del Evento
 | Campo | Detalle |
 |-------|---------|
 | **Fecha** | 2 de junio de 2023 |
-| **Lugar** | Bahanaga Bazar, distrito de Balasore, Odisha, India |
-| **Trenes** | Coromandel Express, Yesvantpur Express y un tren de mercancías |
+| **Lugar** | Bahanaga Bazar, Balasore, Odisha, India |
+| **Trenes** | Coromandel Express + Yesvantpur Express + tren de mercancías |
 | **Víctimas** | 296 fallecidos, más de 1,000 heridos |
 | **Causa** | Error en la señalización electrónica (interlocking) |
 
-#### Descripción del Accidente
-En una de las peores tragedias ferroviarias del siglo XXI, tres trenes colisionaron en una secuencia catastrófica. El Coromandel Express fue dirigido erróneamente hacia una vía de apartadero donde había un tren de mercancías estacionado. Tras la colisión inicial, vagones descarrilados invadieron la vía adyacente donde circulaba el Yesvantpur Express, que impactó contra los restos, creando una triple colisión devastadora.
+#### Descripción
+Tres trenes colisionaron en secuencia. Un tren de pasajeros fue dirigido erróneamente a una vía ocupada por un tren de mercancías. Tras la colisión, vagones descarrilados invadieron la vía adyacente donde circulaba otro tren de pasajeros.
 
 #### Análisis de Causas
+- Error en la configuración del sistema de enclavamiento electrónico
+- Falta de verificación tras modificaciones al sistema de señalización
+- Ausencia de protección automática de trenes en el tramo
+- Efecto dominó por proximidad de vías
 
-```
-CAUSA INMEDIATA:
-└── Tren de pasajeros dirigido a vía ocupada por error de señalización
-
-CAUSAS CONTRIBUYENTES:
-├── Modificación incorrecta en el sistema de enclavamiento electrónico
-├── Posible error humano en la configuración de la señalización
-├── Alta velocidad del Coromandel Express al entrar en la zona
-├── Ocupación simultánea de vías adyacentes
-└── Efecto dominó por proximidad de las vías
-
-FALLAS SISTÉMICAS:
-├── Procedimientos de verificación insuficientes tras modificaciones al sistema
-├── Falta de sistema de protección automática de trenes (ATP) en ese tramo
-├── Densidad de tráfico extremadamente alta en la línea
-└── Infraestructura de señalización con tecnología obsoleta en algunos puntos
-```
-
-#### Respuesta a la Emergencia
-- Se desplegaron 9 equipos del National Disaster Response Force (NDRF)
-- Participaron miles de voluntarios locales
-- Se establecieron hospitales de campaña
-- Operación de rescate duró aproximadamente 18 horas
-- Se habilitaron trenes especiales para trasladar heridos
-- Coordinación entre gobierno central y estatal
-
-#### Lecciones Aprendidas
-1. **Tecnología:** India aceleró el despliegue del sistema KAVACH (sistema de prevención automática de colisiones)
-2. **Mantenimiento:** Se reforzaron los protocolos de verificación tras cualquier intervención en sistemas de señalización
-3. **Respuesta masiva:** Necesidad de planes para incidentes con cientos de víctimas simultáneas
-4. **Comunicación:** La identificación de víctimas requiere sistemas digitales modernos
-5. **Capacidad de respuesta:** Los hospitales locales se vieron completamente desbordados
+#### Lecciones para Colombia
+1. **Nuevos sistemas:** El Metro de Bogotá y RegioTram están implementando tecnología moderna. Los procedimientos de verificación post-mantenimiento son CRÍTICOS
+2. **Capacidad SNGRD:** ¿Está preparado el sistema de emergencias colombiano para un evento con cientos de víctimas simultáneas?
+3. **CRUE:** Los Centros Reguladores de Urgencias deben tener planes para eventos de múltiples víctimas en infraestructura ferroviaria
+4. **Hospitales:** ¿Los hospitales cercanos a corredores férreos tienen capacidad para recibir múltiples víctimas?
+5. **Identificación de víctimas:** Necesidad de sistemas modernos de identificación (Colombia cuenta con Medicina Legal)
 
 #### Pregunta para Discusión
-> ¿Qué protocolos de verificación existen en su sistema cuando se realizan modificaciones a la señalización? ¿Existe un sistema de protección automática que impida que un tren entre a una vía ocupada?
+> Si ocurriera un accidente con 100+ víctimas en el Metro de Medellín o el futuro Metro de Bogotá, ¿está preparada la red hospitalaria de la ciudad? ¿Existe un plan específico de múltiples víctimas para el sistema ferroviario?
 
 **Fuente:** [BBC News - How did three trains collide in Odisha?](https://www.bbc.com/news/world-asia-india-65796173)
 
 ---
 
-
 ### CASO 4: DESCARRILAMIENTO DE EAST PALESTINE, OHIO, EE.UU. (2023)
+#### Relevancia para Colombia: Respuesta MATPEL y comunicación con comunidades
 
 #### Datos del Evento
 | Campo | Detalle |
 |-------|---------|
 | **Fecha** | 3 de febrero de 2023 |
 | **Lugar** | East Palestine, Ohio, Estados Unidos |
-| **Tren** | Tren de carga Norfolk Southern Railway (150 vagones) |
-| **Carga** | Múltiples materiales peligrosos incluyendo cloruro de vinilo |
-| **Víctimas** | Sin fallecidos directos, pero evacuación masiva y contaminación ambiental grave |
+| **Tren** | Norfolk Southern Railway, 150 vagones de carga |
+| **Carga** | Múltiples MATPEL incluyendo cloruro de vinilo |
+| **Víctimas** | Sin fallecidos directos, evacuación de 2,000 personas, contaminación masiva |
 | **Causa** | Falla de rodamiento de rueda sobrecalentado |
 
-#### Descripción del Accidente
-Un tren de carga de Norfolk Southern con 150 vagones descarriló parcialmente (38 vagones) debido a un rodamiento de rueda que se sobrecalentó y falló. Tres vagones DOT-111 con líquidos inflamables se rompieron mecánicamente, liberando su contenido que se incendió. El fuego se propagó y afectó otros vagones cisterna. Tres días después, ante el riesgo de explosión no controlada, las autoridades ordenaron una "ventilación y quema" controlada de cinco vagones con cloruro de vinilo, generando una nube tóxica masiva.
+#### Descripción
+Un tren de carga descarriló parcialmente debido a un rodamiento de rueda que falló. Vagones con líquidos inflamables se rompieron e incendiaron. Ante el riesgo de explosión no controlada, se realizó una "ventilación y quema" controlada de cloruro de vinilo, generando una nube tóxica que obligó a evacuar a toda la población.
 
 #### Análisis de Causas
+- Falla mecánica no detectada a tiempo por los sistemas de monitoreo
+- Umbrales de alarma de detectores demasiado altos
+- Vagones con diseño obsoleto
+- Trenes excesivamente largos
+- Reducción de personal de inspección
 
-```
-CAUSA INMEDIATA:
-└── Falla de rodamiento de rueda sobrecalentado que provocó descarrilamiento
-
-CAUSAS CONTRIBUYENTES:
-├── Detector de rodamientos calientes (HBD) detectó aumento pero
-│   el tren no fue detenido a tiempo
-├── Umbral de alarma del detector demasiado alto
-├── Vagones DOT-111 (diseño vulnerable a perforación mecánica)
-├── Proximidad de vagones HAZMAT entre sí en la formación
-└── Longitud excesiva del tren (150 vagones)
-
-FALLAS SISTÉMICAS:
-├── Política de reducción de personal de inspección
-├── Falta de inspecciones más frecuentes de rodamientos
-├── Demora en implementar regulación de vagones más seguros
-├── Ausencia de requisito de frenado electrónico (ECP)
-└── Priorización de eficiencia sobre seguridad en la industria
-```
-
-#### Respuesta a la Emergencia - Cronología
-
-| Tiempo | Acción |
-|--------|--------|
-| Hora 0 | Descarrilamiento e incendio inicial |
-| +30 min | Llegada de bomberos locales |
-| +2 hrs | Evacuación de residentes en radio de 1 milla (~2,000 personas) |
-| +24 hrs | Evaluación HAZMAT - Se identifica cloruro de vinilo |
-| +72 hrs | Decisión de "vent and burn" controlado del cloruro de vinilo |
-| +5 días | Se permite retorno de residentes |
-| +Semanas | Monitoreo ambiental continuo por EPA |
-| +Meses | Limpieza y remediación del suelo y agua |
-
-#### Gestión de la Crisis Ambiental
-- La EPA ordenó a Norfolk Southern realizar toda la limpieza necesaria
-- Se monitorearon fuentes de agua, suelo y aire continuamente
-- Se establecieron centros de salud para residentes afectados
-- El costo total de limpieza superó los 1,000 millones de dólares
-
-#### Lecciones Aprendidas
-1. **Inspección:** Se reforzaron los programas de inspección de rodamientos y se bajaron los umbrales de alarma de los detectores
-2. **Vagones:** Se renovó el impulso legislativo para reemplazar vagones DOT-111
-3. **Respuesta HAZMAT:** La decisión de vent-and-burn generó debate sobre los protocolos de emergencia
-4. **Comunidad:** La comunicación con la comunidad fue tardía e inadecuada inicialmente
-5. **Regulación:** Se propusieron nuevas normas sobre longitud de trenes, velocidad con HAZMAT y frecuencia de inspecciones
-6. **Responsabilidad corporativa:** Norfolk Southern enfrentó múltiples demandas y órdenes de remediación
+#### Lecciones para Colombia
+1. **Mantenimiento:** Los corredores de carga colombianos (ej: carbón hacia Santa Marta) requieren inspección rigurosa de material rodante
+2. **Comunidades en riesgo:** Las comunidades cercanas a la vía férrea en Colombia DEBEN ser informadas sobre los riesgos y los planes de evacuación
+3. **Respuesta MATPEL:** ¿Existe capacidad MATPEL suficiente en los municipios por donde transitan trenes con materiales peligrosos?
+4. **Medio ambiente:** Colombia tiene ecosistemas sensibles (humedales, ríos) cerca de corredores férreos. Un derrame podría ser catastrófico
+5. **CAR/Autoridad Ambiental:** Las Corporaciones Autónomas Regionales deben estar incluidas en planes de emergencia ferroviarios
+6. **Comunicación comunitaria:** Las comunidades deben ser alertadas oportunamente y con información clara
 
 #### Pregunta para Discusión
-> ¿Cómo se gestionan los materiales peligrosos en su operación? ¿Existen protocolos claros para la decisión de "contener vs. liberar de forma controlada" ante un derrame inminente? ¿Se comunica oportunamente a la población?
+> En el corredor férreo del carbón en Colombia, ¿qué pasaría si un tren con material peligroso descarrilara cerca de una fuente de agua que abastece a una población? ¿Existe un plan de contingencia ambiental?
 
-**Fuentes:** [NTSB Press Release](https://www.ntsb.gov/news/press-releases/Pages/NR20240625.aspx) | [EPA - East Palestine](https://epa.gov/east-palestine-oh-train-derailment) | [FEMA/USFA](https://www.usfa.fema.gov/blog/2023-east-palestine-train-derailment-and-hazmat-release/)
+**Fuentes:** [NTSB](https://www.ntsb.gov/news/press-releases/Pages/NR20240625.aspx) | [EPA](https://epa.gov/east-palestine-oh-train-derailment) | [FEMA/USFA](https://www.usfa.fema.gov/blog/2023-east-palestine-train-derailment-and-hazmat-release/)
 
 ---
 
-### CASO 5: ACCIDENTE DE ADAMUZ, CÓRDOBA, ESPAÑA (2024)
+### CASO 5: INCIDENTES EN PASOS A NIVEL - PROBLEMÁTICA COLOMBIANA
+#### Caso compuesto basado en la realidad colombiana
 
-#### Datos del Evento
-| Campo | Detalle |
-|-------|---------|
-| **Fecha** | Diciembre 2024 |
-| **Lugar** | Adamuz, Córdoba, España |
-| **Trenes** | Tren Iryo y Alvia |
-| **Víctimas** | 46 fallecidos, más de 100 heridos |
-| **Causa (preliminar)** | Rotura de carril según investigación CIAF |
+#### Contexto
+En Colombia, los pasos a nivel (cruces entre la vía férrea y vías vehiculares/peatonales) representan uno de los principales puntos de riesgo, especialmente en:
+- Corredor férreo del Atlántico (La Dorada - Chiriguaná - Santa Marta)
+- Zonas urbanas donde la vía atraviesa poblaciones
+- Cruces informales creados por la comunidad
 
-#### Descripción del Accidente
-Dos trenes de pasajeros se vieron involucrados en un accidente ferroviario grave en las proximidades de Adamuz, Córdoba. Según las investigaciones preliminares de la Comisión de Investigación de Accidentes Ferroviarios (CIAF) y la Guardia Civil, la causa fue una rotura de carril. Los análisis de las cajas negras y los videos internos no mostraron anomalías en los trenes, apuntando a un fallo en la infraestructura.
+#### Escenario Típico Colombiano
+Un tren de carga de carbón (formación de 80-120 vagones) transita por un corredor que atraviesa un casco urbano. Existen múltiples pasos a nivel, algunos señalizados y otros informales. Motociclistas y peatones intentan cruzar la vía frente al tren.
 
-#### Análisis Preliminar
+#### Factores de Riesgo Específicos de Colombia
+1. **Pasos a nivel no regulados:** Muchos cruces no tienen barreras ni señalización
+2. **Cultura vial:** Baja percepción del riesgo por parte de la comunidad
+3. **Motocicletas:** Alto uso de motos que intentan "ganarle" al tren
+4. **Invasión del corredor férreo:** Construcciones informales pegadas a la vía
+5. **Velocidad del tren:** Distancia de frenado puede ser de varios cientos de metros
+6. **Fauna:** Animales domésticos en la vía (ganado, perros)
 
-```
-CAUSA PROBABLE:
-└── Rotura de carril (fallo de infraestructura)
+#### Protocolo de Respuesta ante Colisión en Paso a Nivel
 
-INVESTIGACIÓN EN CURSO:
-├── CIAF confirma que no hay anomalías en los trenes involucrados
-├── Guardia Civil coincide en la hipótesis de rotura de carril
-├── Análisis metalúrgico del carril pendiente
-└── Adif defiende sus protocolos de mantenimiento
-```
+| Paso | Acción |
+|------|--------|
+| 1 | Aplicar freno de emergencia (reconocer que no siempre se puede evitar) |
+| 2 | Sonar bocina continuamente |
+| 3 | Protegerse del impacto |
+| 4 | Post-impacto: evaluar propia condición |
+| 5 | Reportar al CCO + Línea 123 |
+| 6 | Descender SOLO si es seguro y verificar estado de la víctima |
+| 7 | Aplicar primeros auxilios si hay signos de vida. NO mover a la víctima |
+| 8 | Proteger la escena (no mover nada - evidencia para la investigación) |
+| 9 | Esperar Policía, ambulancias, CTI (Fiscalía) |
+| 10 | Atención al bienestar emocional del maquinista |
 
-#### Lecciones Preliminares
-1. **Mantenimiento preventivo:** La importancia de la inspección ultrasónica regular de rieles
-2. **Detección temprana:** Sistemas de monitoreo continuo de integridad de vía
-3. **Respuesta rápida:** Activación del plan de emergencias
-4. **Investigación:** Importancia de organismos independientes como la CIAF
-5. **Transparencia:** Comunicación con familias y sociedad durante la investigación
+#### Lecciones y Recomendaciones
+1. **Prevención:** Campañas educativas con comunidades aledañas a la vía
+2. **Infraestructura:** Instalación de barreras automáticas en pasos a nivel críticos
+3. **Señalización:** Mejora de señalización visual y sonora
+4. **Normativa:** Aplicación estricta de la Ley 769 de 2002 en materia de pasos a nivel
+5. **Bienestar del operador:** Protocolos de atención psicológica post-traumática para maquinistas
+6. **Coordinación:** Trabajo conjunto con Alcaldías para control de invasión del corredor
 
-> **Nota:** Este caso está en investigación activa al momento de preparar este material. Las conclusiones finales podrían diferir de la información preliminar presentada.
-
-**Fuente:** [El Español - Investigación Adamuz](https://www.elespanol.com/invertia/observatorios/movilidad/20260429/adif-cuerdas-ciaf-guardia-civil-coinciden-rotura-carril-causa-accidente-adamuz/1003744225771_0.html)
+#### Pregunta para Discusión
+> ¿Cuántos pasos a nivel no regulados existen en el corredor donde usted opera? ¿Qué acciones se están tomando para reducir el riesgo? ¿Existe protocolo de atención psicológica para el maquinista después de un arrollamiento?
 
 ---
 
 ### 8.2 Resumen Comparativo de Casos
 
-| Aspecto | Santiago 2013 | Lac-Mégantic 2013 | Balasore 2023 | East Palestine 2023 | Adamuz 2024 |
+| Aspecto | Santiago 2013 | Lac-Mégantic 2013 | Balasore 2023 | East Palestine 2023 | Pasos a Nivel COL |
 |---------|---------------|-------------------|---------------|--------------------|----|
-| **Tipo** | Descarrilamiento | Tren fugado + HAZMAT | Triple colisión | Descarrilamiento HAZMAT | Descarrilamiento |
-| **Causa raíz** | Factor humano | Múltiples fallas | Señalización | Falla mecánica | Infraestructura |
-| **Víctimas** | 79 | 47 | 296 | 0 directas | 46 |
-| **Servicio** | Pasajeros | Carga HAZMAT | Pasajeros | Carga HAZMAT | Pasajeros |
-| **Lección principal** | Redundancia tecnológica | Gestión de riesgo HAZMAT | Verificación de sistemas | Inspección preventiva | Monitoreo de vía |
+| **Tipo** | Descarrilamiento | Tren fugado + MATPEL | Triple colisión | Descarrilamiento MATPEL | Colisión paso a nivel |
+| **Causa raíz** | Factor humano | Múltiples fallas | Señalización | Falla mecánica | Múltiples |
+| **Víctimas** | 79 | 47 | 296 | 0 directas | Variables |
+| **Lección principal** | Redundancia tecnológica | Gestión MATPEL en zonas pobladas | Verificación de sistemas | Inspección y comunicación | Prevención y educación |
+| **Aplicación Colombia** | Metro/RegioTram | Corredores de carga | Nuevos sistemas | Carga MATPEL | Todos los corredores |
 
-### 8.3 Patrones Comunes en Accidentes Ferroviarios
+### 8.3 Modelo del "Queso Suizo" (James Reason) - Aplicado a Colombia
 
-De los casos estudiados, se identifican patrones recurrentes:
+Los accidentes nunca tienen UNA sola causa. Son el resultado de múltiples fallas alineadas simultáneamente:
 
-1. **Modelo del "Queso Suizo" (James Reason):**
-   - Los accidentes nunca tienen UNA sola causa
-   - Múltiples barreras de seguridad fallaron simultáneamente
-   - Cada "agujero" individual era conocido o previsible
+```
+BARRERAS DE SEGURIDAD (cada una debe detener el accidente):
 
-2. **Causas más frecuentes a nivel mundial:**
-   - Factor humano: ~35%
-   - Fallas de infraestructura: ~25%
-   - Fallas en material rodante: ~20%
-   - Factores externos (clima, terceros): ~15%
-   - Otros: ~5%
+ Reglamento │ Capacitación │ Tecnología │ Supervisión │ Mantenimiento
+     │            │           │          │            │
+     │     ○      │           │    ○     │            │    ○
+     │            │     ○     │          │      ○     │
+     ○            │           │          │            │
+     │            │           │    ○     │            │
+     │      ○     │           │          │            │    ○
+     
+     ○ = "agujero" (falla en esa barrera)
+     
+Si los agujeros se ALINEAN → el accidente ocurre
+Si alguna barrera funciona → el accidente se evita
+```
 
-3. **Factores que amplifican las consecuencias:**
-   - Velocidad del tren al momento del accidente
-   - Presencia de materiales peligrosos
-   - Proximidad a poblaciones
-   - Capacidad de respuesta de emergencia disponible
-   - Hora del día (accidentes nocturnos = respuesta más lenta)
+**Aplicación en Colombia:**
+- ¿Las normas de 1920 son una barrera débil?
+- ¿La capacitación del personal es suficiente?
+- ¿La tecnología disponible es moderna?
+- ¿La supervisión es efectiva?
+- ¿El mantenimiento de la infraestructura es adecuado?
 
 ---
 
@@ -1009,89 +1092,83 @@ De los casos estudiados, se identifican patrones recurrentes:
 
 ### 9.1 Objetivos de Aprendizaje
 Al finalizar este módulo, el participante será capaz de:
-- Comprender la importancia de los simulacros regulares
+- Comprender la importancia de los simulacros según la normativa colombiana
 - Participar efectivamente en ejercicios de emergencia
-- Evaluar el desempeño durante los ejercicios
+- Evaluar el desempeño y proponer mejoras
 
-### 9.2 Tipos de Ejercicios
+### 9.2 Marco Normativo para Simulacros en Colombia
 
-| Tipo | Descripción | Frecuencia Recomendada |
-|------|-------------|----------------------|
-| **Ejercicio de mesa** | Discusión grupal de escenarios hipotéticos | Trimestral |
-| **Ejercicio funcional** | Práctica de funciones específicas (comunicaciones, evacuación) | Semestral |
-| **Ejercicio a escala completa** | Simulacro total con todos los actores y recursos reales | Anual |
-| **Drill (repetición)** | Práctica de una acción específica (uso de extintor, triage) | Mensual |
+| Norma | Requisito |
+|-------|-----------|
+| Ley 1523 de 2012 | Los planes de gestión del riesgo deben incluir ejercicios de preparación |
+| Decreto 1072 de 2015 (SG-SST) | Simulacros como parte del plan de emergencias de la empresa |
+| UNGRD | Promueve la realización de simulacros multiagencia |
+| Resolución 0312 de 2019 | Estándares mínimos del SG-SST incluyen simulacros anuales |
 
-### 9.3 Ejercicio de Mesa - Ejemplo
+### 9.3 Tipos de Ejercicios
+
+| Tipo | Descripción | Frecuencia |
+|------|-------------|-----------|
+| **Ejercicio de mesa** | Discusión grupal de escenarios | Trimestral |
+| **Ejercicio funcional** | Práctica de funciones específicas | Semestral |
+| **Simulacro a escala completa** | Con todos los actores y recursos reales | Anual (mínimo) |
+| **Drill (repetición)** | Práctica de una acción (uso de extintor, triage) | Mensual |
+
+### 9.4 Ejercicio de Mesa - Escenario Colombia
 
 **Escenario para discusión grupal:**
 
-> Son las 18:30 de un viernes. Un tren de pasajeros con 450 personas a bordo descarrila dentro de un túnel de 3 km de longitud. Se reporta humo en el tercer vagón. La comunicación por radio es intermitente. El tren está a 1.2 km de la boca sur del túnel.
+> Son las 17:00 de un viernes en temporada de lluvias. Un tren de carga con 90 vagones de carbón transita por el corredor férreo en el departamento del Cesar. Tras fuertes lluvias, un deslizamiento de tierra cubre 50 metros de vía. El maquinista frena pero no alcanza a detenerse completamente. La locomotora y 5 vagones descarrilan. Hay derrame de diésel de la locomotora. A 500 metros hay un caserío de 200 personas y una quebrada que alimenta el acueducto local. El maquinista reporta heridas leves. Son las 5 PM y oscurecerá en 90 minutos. La vía de acceso más cercana está a 3 km por carretera destapada.
 
 **Preguntas para el grupo:**
-1. ¿Quién asume el mando inicial?
-2. ¿Se evacúa o se espera? ¿Hacia qué dirección?
-3. ¿Qué se comunica al CCO?
-4. ¿Qué recursos se solicitan?
-5. ¿Cómo se maneja a los pasajeros en estado de pánico?
-6. ¿Qué riesgos adicionales deben considerarse?
-7. ¿Cuál es el plan B si el humo aumenta?
+1. ¿Quién asume el mando inicial? ¿A quién se llama primero?
+2. ¿Qué información se comunica al CCO y a la Línea 123?
+3. ¿Se debe alertar al caserío? ¿Cómo?
+4. ¿Qué riesgo representa el diésel derramado para la quebrada?
+5. ¿A qué entidades se debe notificar? (Considere: Bomberos, CAR, CMGRD, ANI, Supertransporte)
+6. ¿Cómo se gestiona la logística de acceso al sitio antes de que oscurezca?
+7. ¿Qué protocolo de protección ambiental se debe activar?
+8. ¿Cuál es el plan B si el deslizamiento continúa durante la noche?
 
-### 9.4 Ejercicio Funcional - Guía
+### 9.5 Escenarios para Práctica (Contexto Colombiano)
 
-**Ejercicio: Evacuación de tren en estación**
+#### Escenario A: Colisión en Paso a Nivel (Zona Urbana - Cesar/Magdalena)
+- Tren de carbón impacta camioneta en paso a nivel no señalizado
+- 3 ocupantes del vehículo: 1 fallecido, 2 heridos graves
+- Hora pico, comunidad se aglomera en la zona
+- Hospital más cercano a 45 minutos
+- Policía de Tránsito no disponible de inmediato
 
-| Fase | Actividad | Duración |
-|------|-----------|----------|
-| Preparación | Briefing, asignación de roles, verificación de equipos | 30 min |
-| Ejecución | Simulacro de evacuación con voluntarios como pasajeros | 45 min |
-| Hot debrief | Retroalimentación inmediata de participantes | 15 min |
-| Análisis | Revisión de video, tiempos, identificación de mejoras | 60 min |
-| Plan de acción | Documentar hallazgos y acciones correctivas | 30 min |
+#### Escenario B: Emergencia en Metro de Medellín
+- Falla eléctrica genera humo en vagón entre estaciones Industriales y Poblado
+- Tren detenido con 1,200 pasajeros a bordo
+- Pánico entre pasajeros, algunos intentan forzar puertas
+- Hora pico vespertina (5:30 PM)
+- Temperatura interior del vagón en aumento
 
-**Indicadores de desempeño a medir:**
-- Tiempo desde alarma hasta inicio de evacuación
-- Tiempo total de evacuación
-- Número de pasajeros "no evacuados"
-- Calidad de las comunicaciones
-- Atención a personas con movilidad reducida
-- Coordinación entre personal
+#### Escenario C: Descarrilamiento con MATPEL en Zona Rural
+- Tren de carga con vagones de hidrocarburo descarrila en zona del Magdalena Medio
+- Fuga visible de combustible hacia río
+- Comunidad ribereña a 1 km aguas abajo
+- No hay equipo MATPEL disponible en menos de 2 horas
+- Se detecta olor fuerte a combustible
 
-### 9.5 Escenarios para Práctica
-
-#### Escenario A: Colisión en Paso a Nivel
-- Tren de cercanías impacta camión cisterna en paso a nivel
-- 3 vagones descarrilados, posible derrame de combustible
-- 200 pasajeros a bordo, hora pico vespertina
-- Paso a nivel en zona urbana
-
-#### Escenario B: Amenaza de Bomba en Estación Terminal
-- Llamada anónima reporta artefacto explosivo
-- Estación con 5,000 personas en hora pico
-- Objeto sospechoso localizado en sala de espera
-- Tres trenes en plataforma listos para salir
-
-#### Escenario C: Descarrilamiento con HAZMAT en Zona Rural
-- Tren de mercancías con cloro (gas tóxico) descarrila
-- Fuga visible de gas amarillo-verdoso
-- Viento dirección sur hacia pueblo a 2 km
-- Sin servicios HAZMAT disponibles en menos de 90 minutos
-
-#### Escenario D: Incendio en Material Rodante en Taller
-- Incendio originado en sistema eléctrico de locomotora
-- Taller con 4 unidades más estacionadas
-- Tanques de combustible diésel en proximidad
-- Personal de mantenimiento presente (turno nocturno: 8 personas)
+#### Escenario D: Bloqueo Social de la Vía Férrea
+- Comunidad bloquea la vía férrea como protesta social
+- Tren de carga no puede avanzar ni retroceder
+- Situación se prolonga por horas
+- Tensión entre manifestantes y personal del tren
+- Presencia de niños en el bloqueo
 
 ### 9.6 Evaluación Post-Ejercicio
 
-**Formato de informe post-simulacro:**
+**Formato de informe post-simulacro (adaptado a normativa colombiana SG-SST):**
 
 ```
 1. DATOS GENERALES
-   - Fecha, hora, ubicación
+   - Fecha, hora, ubicación (municipio, departamento)
    - Tipo de ejercicio
-   - Participantes y agencias involucradas
+   - Entidades participantes (operador, Bomberos, Cruz Roja, etc.)
 
 2. ESCENARIO PLANTEADO
    - Descripción del escenario
@@ -1100,24 +1177,28 @@ Al finalizar este módulo, el participante será capaz de:
 3. CRONOLOGÍA DE ACCIONES
    - Línea de tiempo de las acciones tomadas
    - Tiempos de respuesta medidos
+   - Activación del SCI
 
-4. ASPECTOS POSITIVOS
+4. COORDINACIÓN INTERINSTITUCIONAL
+   - ¿Funcionó la comunicación con Línea 123?
+   - ¿Llegaron los organismos de socorro a tiempo?
+   - ¿Se activó el CMGRD cuando correspondía?
+
+5. ASPECTOS POSITIVOS
    - ¿Qué funcionó bien?
-   - ¿Qué protocolos se ejecutaron correctamente?
 
-5. ÁREAS DE MEJORA
+6. ÁREAS DE MEJORA
    - ¿Qué no funcionó?
-   - ¿Qué faltó?
-   - ¿Dónde hubo confusión?
+   - ¿Qué recursos faltaron?
 
-6. ACCIONES CORRECTIVAS
-   - Lista de mejoras necesarias
+7. ACCIONES CORRECTIVAS
    - Responsable de cada acción
    - Plazo de implementación
 
-7. PRÓXIMOS PASOS
-   - Fecha del siguiente ejercicio
-   - Temas a reforzar
+8. CUMPLIMIENTO SG-SST
+   - Registro en la matriz de simulacros
+   - Firmas de participantes
+   - Evidencias fotográficas
 ```
 
 ---
@@ -1132,7 +1213,7 @@ Al finalizar este módulo, el participante será capaz de:
 | Examen teórico | 30% | Examen escrito de 50 preguntas |
 | Evaluación práctica | 40% | Desempeño en simulacros y ejercicios |
 | Participación activa | 15% | Intervención en discusiones y trabajo grupal |
-| Examen de casos | 15% | Análisis escrito de un caso de estudio |
+| Examen de casos | 15% | Análisis escrito de un caso de estudio aplicado a Colombia |
 
 ### 10.2 Criterios de Aprobación
 - Calificación mínima general: 80%
@@ -1142,71 +1223,94 @@ Al finalizar este módulo, el participante será capaz de:
 
 ### 10.3 Examen Teórico - Ejemplos de Preguntas
 
-**Pregunta 1:** ¿Cuál es el primer paso del protocolo RAPCE?
+**Pregunta 1:** ¿Cuál es el número único de seguridad y emergencias en Colombia?
+- a) 911
+- b) 112
+- c) 123 ✓
+- d) 119
+
+**Pregunta 2:** Según la Ley 1523 de 2012, ¿quién es el responsable directo de la gestión del riesgo a nivel municipal?
+- a) El Gobernador
+- b) La UNGRD
+- c) El Alcalde ✓
+- d) Los Bomberos
+
+**Pregunta 3:** ¿Cuál es el primer paso del protocolo RAPCE?
 - a) Alertar al CCO
 - b) Proteger la zona
 - c) Reconocer la emergencia ✓
 - d) Evacuar a los pasajeros
 
-**Pregunta 2:** En una evacuación dentro de un túnel con humo, los pasajeros deben caminar:
-- a) Hacia la salida más cercana sin importar la dirección
-- b) En dirección contraria al humo ✓
-- c) Siempre hacia la boca norte del túnel
-- d) Permanecer en el tren sin moverse
-
-**Pregunta 3:** La distancia mínima de protección en línea de alta velocidad es:
-- a) 500 metros
-- b) 800 metros
-- c) 1,500 metros
-- d) 2,000 metros ✓
-
-**Pregunta 4:** Ante un derrame de material peligroso, el personal ferroviario debe:
+**Pregunta 4:** Ante un derrame de material peligroso en un corredor férreo colombiano, el personal ferroviario debe:
 - a) Intentar sellar la fuga con los medios disponibles
-- b) Retirarse a favor del viento y reportar al CCO ✓
+- b) Retirarse a favor del viento y reportar al CCO + Línea 123 ✓
 - c) Rociar agua sobre el derrame para diluirlo
 - d) Acercarse para identificar el material por su olor
 
-**Pregunta 5:** En el Sistema de Comando de Incidentes, el alcance de control ideal es:
-- a) 3 personas
-- b) 5 personas ✓
-- c) 10 personas
-- d) 15 personas
+**Pregunta 5:** ¿Qué entidad colombiana coordina la atención de emergencias que superan la capacidad local y departamental?
+- a) ANI
+- b) Supertransporte
+- c) UNGRD ✓
+- d) Mintransporte
+
+**Pregunta 6:** En temporada de lluvias en Colombia, ante un deslizamiento que obstruye la vía, el maquinista debe:
+- a) Intentar cruzar el obstáculo a baja velocidad
+- b) Detenerse, NO cruzar, y reportar al CCO evaluando riesgo de nuevo deslizamiento ✓
+- c) Retroceder inmediatamente sin consultar
+- d) Descender del tren para evaluar el obstáculo
+
+**Pregunta 7:** ¿Cuál es la norma colombiana que regula el transporte terrestre de mercancías peligrosas?
+- a) Ley 769 de 2002
+- b) Decreto 1609 de 2002 ✓
+- c) Ley 1523 de 2012
+- d) Decreto 1072 de 2015
 
 ### 10.4 Recertificación
-- La certificación tiene validez de **2 años**
+- La certificación tiene validez de **2 años** (alineado con estándares del SG-SST)
 - Recertificación requiere curso de actualización (16 horas)
-- Si ocurre un accidente/incidente grave en la industria, se programa capacitación extraordinaria sobre lecciones aprendidas
+- Si ocurre un accidente/incidente grave, se programa capacitación extraordinaria
+- Los registros de capacitación se conservan según Resolución 0312 de 2019
 
 ---
 
 ## BIBLIOGRAFÍA Y REFERENCIAS
 
-### Normativa y Regulaciones
-1. Federal Railroad Administration (FRA). 49 CFR Part 239 - Passenger Train Emergency Preparedness. [Link](https://www.law.cornell.edu/cfr/text/49/239.101)
-2. Federal Transit Administration (FTA). Recommended Emergency Preparedness Guidelines for Rail Transit Systems. [Link](https://www.transit.dot.gov/regulations-and-guidance/safety/recommended-emergency-preparedness-guidelines-rail-transit-systems)
-3. Directiva 2004/49/CE sobre seguridad ferroviaria en la Unión Europea.
+### Normativa Colombiana
+1. Ley 1523 de 2012. Política Nacional de Gestión del Riesgo de Desastres.
+2. Ley 1682 de 2013. Ley de Infraestructura de Transporte.
+3. Ley 769 de 2002. Código Nacional de Tránsito Terrestre.
+4. Decreto 1609 de 2002. Transporte terrestre de mercancías peligrosas.
+5. Decreto 1079 de 2015. Decreto Único Reglamentario del Sector Transporte.
+6. Decreto 1072 de 2015. Decreto Único Reglamentario del Sector Trabajo (SG-SST).
+7. Resolución 0312 de 2019. Estándares mínimos del SG-SST.
+8. Plan Maestro Ferroviario de Colombia (2020). Mintransporte.
 
-### Material de Capacitación de Referencia
-4. Mineta Transportation Institute. "Field Personnel Respond: Incident Command System (ICS) for Extreme Events on the Railroad." San José State University. [Link](https://transweb.sjsu.edu/research/cceetr/ICS-extreme-events)
-5. Mineta Transportation Institute. "Practice Responses to Extreme Events on the Railroad: Exercises of the Plans and Training." [Link](https://transweb.sjsu.edu/research/2415.11-Practice-Responses-Extreme-Events-Railroad)
-6. Fire Engineering. "Training for Railroad Emergencies." [Link](https://www.fireengineering.com/firefighter-training/training-for-railroad-emergencies/)
+### Entidades de Referencia en Colombia
+- UNGRD: www.gestiondelriesgo.gov.co
+- Supertransporte: www.supertransporte.gov.co
+- ANI: www.ani.gov.co
+- Mintransporte: www.mintransporte.gov.co
+- Metro de Medellín: www.metrodemedellin.gov.co
 
-### Casos de Estudio e Investigaciones
-7. NTSB. "Failed Wheel Bearing Caused Norfolk Southern Train Derailment in East Palestine, Ohio." 2024. [Link](https://www.ntsb.gov/news/press-releases/Pages/NR20240625.aspx)
-8. EPA. "East Palestine, Ohio Train Derailment." [Link](https://epa.gov/east-palestine-oh-train-derailment)
-9. CIAF (España). Investigación del accidente de Adamuz, Córdoba. 2024-2025.
-10. Cambridge University Press. "The 2013 Santiago de Compostela Train Crash." Prehospital and Disaster Medicine. [Link](https://www.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/2013-santiago-de-compostela-train-crash-highspeed-derailment-medical-trauma-and-psychological-aftermath/872BDF80E655429E848FFCE72D0D4CE0)
-11. The Canadian Encyclopedia. "Lac-Mégantic Rail Disaster." [Link](https://thecanadianencyclopedia.ca/en/article/lac-megantic-rail-disaster)
+### Referencias Internacionales
+9. Federal Railroad Administration (FRA). 49 CFR Part 239. [Link](https://www.law.cornell.edu/cfr/text/49/239.101)
+10. Mineta Transportation Institute. ICS for Extreme Events on the Railroad. [Link](https://transweb.sjsu.edu/research/cceetr/ICS-extreme-events)
+11. NTSB. East Palestine Derailment Report. [Link](https://www.ntsb.gov/news/press-releases/Pages/NR20240625.aspx)
+12. The Canadian Encyclopedia. Lac-Mégantic Rail Disaster. [Link](https://thecanadianencyclopedia.ca/en/article/lac-megantic-rail-disaster)
+13. Railway Journal. Colombia freight performance. [Link](https://www.railjournal.com/freight/colombia-reports-improved-freight-performance-on-key-corridor/)
+14. Anadolu Agency. Plan para reactivar transporte ferroviario en Colombia. [Link](https://aa.com.tr/es/mundo/el-plan-para-reactivar-el-transporte-ferroviario-en-colombia/2053643)
 
-### Organismos de Referencia
+### Organismos Internacionales
 - UIC (Unión Internacional de Ferrocarriles): www.uic.org
 - ERA (Agencia Ferroviaria Europea): www.era.europa.eu
 - FRA (Federal Railroad Administration): www.fra.dot.gov
 - NTSB (National Transportation Safety Board): www.ntsb.gov
-- CIAF (Comisión de Investigación de Accidentes Ferroviarios, España)
 
 ---
 
-*Material preparado para fines de capacitación. La información sobre casos reales ha sido recopilada de fuentes públicas y organismos oficiales de investigación. El contenido ha sido parafraseado para cumplir con restricciones de licenciamiento.*
+*Material preparado para fines de capacitación del personal ferroviario en Colombia.*
+*La información sobre casos reales fue recopilada de fuentes públicas oficiales y parafraseada para cumplir con restricciones de licenciamiento.*
+*El contenido normativo colombiano debe verificarse con las versiones vigentes al momento de la capacitación.*
 
-*Versión del documento: 1.0 | Fecha: Julio 2026*
+*Versión del documento: 2.0 - Enfoque Colombia*
+*Fecha: Julio 2026*

@@ -1,9 +1,10 @@
 # GUÍA RÁPIDA DE PROTOCOLOS DE EMERGENCIA FERROVIARIA
-## (Material de bolsillo para personal operativo)
+## COLOMBIA
+### (Material de bolsillo para personal operativo)
 
 ---
 
-> **⚠️ ESTE DOCUMENTO DEBE ESTAR ACCESIBLE EN TODO MOMENTO DURANTE EL SERVICIO**
+> **ESTE DOCUMENTO DEBE ESTAR ACCESIBLE EN TODO MOMENTO DURANTE EL SERVICIO**
 
 ---
 
@@ -12,45 +13,51 @@
 | Paso | Acción | Detalle |
 |------|--------|---------|
 | **R** | RECONOCER | Identifique el tipo de emergencia y evalúe el riesgo |
-| **A** | ALERTAR | Notifique al CCO inmediatamente |
+| **A** | ALERTAR | Notifique al CCO + Línea 123 si hay víctimas |
 | **P** | PROTEGER | Señalice y proteja la zona del incidente |
 | **C** | CONTENER | Controle la situación SIN exponerse a riesgo |
-| **E** | ESPERAR/EVACUAR | Aguarde refuerzos o inicie evacuación si hay peligro |
+| **E** | ESPERAR/EVACUAR | Aguarde organismos de socorro o inicie evacuación |
 
 ---
 
-## NÚMEROS DE EMERGENCIA
+## NÚMEROS DE EMERGENCIA - COLOMBIA
 
-| Servicio | Teléfono |
-|----------|----------|
-| Centro de Control de Operaciones (CCO) | _____________ |
-| Emergencias general (112/911) | _____________ |
-| Bomberos | _____________ |
-| Policía | _____________ |
-| Ambulancias | _____________ |
+| Servicio | Número |
+|----------|--------|
+| **Número Único de Emergencias (NUSE)** | **123** |
+| Bomberos | **119** |
+| Policía Nacional | **112** |
+| Cruz Roja Colombiana | **132** |
+| Defensa Civil | **144** |
+| Tránsito y Transporte | **#767** |
+| Emergencias Ambientales | **018000-916112** |
+| Centro Control Operaciones (CCO) | _____________ |
 | Supervisor de guardia | _____________ |
-| Equipo HAZMAT | _____________ |
+| CRUE departamental | _____________ |
 
 ---
 
-## FORMATO DE REPORTE AL CCO
+
+## FORMATO DE REPORTE AL CCO / LÍNEA 123
 
 ```
-"CCO, aquí [su identificación], EMERGENCIA"
+"CCO / Línea 123, reporto EMERGENCIA FERROVIARIA"
 
 1. QUÉ pasó: _________________________________
-2. DÓNDE: Km ___, Vía ___, entre _____ y _____
+2. DÓNDE: Km ___, Corredor ___, Municipio ___,
+   Departamento ___
+   (GPS si disponible: Lat ___ Long ___)
 3. CUÁNDO: Hora ___:___
 4. MAGNITUD: ___ vagones/coches afectados
 5. VÍCTIMAS: Sí/No - Estimación: ___
-6. NECESIDADES: Ambulancias/Bomberos/HAZMAT/Grúa
-7. RIESGOS: _________________________________
+6. NECESIDADES: Ambulancias/Bomberos/MATPEL/Grúa
+7. ACCESO: Cómo llegar al sitio _______________
+8. RIESGOS adicionales: _______________________
 
 "Solicito acuse de recibo"
 ```
 
 ---
-
 
 ## PROTOCOLOS POR TIPO DE EMERGENCIA
 
@@ -61,11 +68,12 @@
 | 1 | Detener el tren (si en movimiento) |
 | 2 | NO mover el tren después de detenerse |
 | 3 | Evaluar daños desde posición segura |
-| 4 | Reportar al CCO (km, vía, vagones afectados) |
+| 4 | Reportar al CCO (km, corredor, vagones) |
 | 5 | CCO detiene tráfico adyacente |
-| 6 | Evaluar necesidad de evacuación |
-| 7 | Proteger zona: señales a 800m (convencional) / 2000m (alta velocidad) |
-| 8 | Esperar equipos de emergencia |
+| 6 | Llamar Línea 123 si hay víctimas |
+| 7 | Proteger zona: 800m en cada dirección |
+| 8 | Esperar organismos de socorro |
+| 9 | Notificar a Supertransporte/ANI |
 
 ---
 
@@ -74,13 +82,27 @@
 | # | Acción |
 |---|--------|
 | 1 | Activar alarma de incendio |
-| 2 | Detener tren EN ZONA ABIERTA (¡NUNCA en túnel!) |
-| 3 | Notificar al CCO |
-| 4 | Si es controlable: usar extintores (apuntar a la base del fuego) |
-| 5 | Si NO es controlable: EVACUAR por lado contrario al fuego |
-| 6 | Solicitar desconexión de catenaria al CCO |
+| 2 | Detener tren EN ZONA ABIERTA (NUNCA en túnel!) |
+| 3 | Reportar CCO + Bomberos (119) |
+| 4 | Si controlable: usar extintores (base del fuego) |
+| 5 | Si NO controlable: EVACUAR por lado opuesto al fuego |
+| 6 | Solicitar desconexión eléctrica al CCO |
 | 7 | Alejar pasajeros mínimo 100m del tren |
 | 8 | Conteo de pasajeros evacuados |
+
+---
+
+### DESLIZAMIENTO DE TIERRA SOBRE LA VÍA
+
+| # | Acción | IMPORTANTE |
+|---|--------|-----------|
+| 1 | Detenerse INMEDIATAMENTE | NO cruzar! |
+| 2 | Evaluar riesgo de nuevo deslizamiento | Observar ladera |
+| 3 | Si hay riesgo: retroceder (con autorización CCO) | |
+| 4 | Reportar al CCO: ubicación y magnitud | |
+| 5 | CCO notifica a INVÍAS/ANI | Evaluación geotécnica |
+| 6 | Mantener pasajeros informados | |
+| 7 | NO descender en zona de ladera inestable | |
 
 ---
 
@@ -89,112 +111,92 @@
 | # | Acción |
 |---|--------|
 | 1 | Aplicar freno de emergencia |
-| 2 | Sonar bocina continuamente antes del impacto |
-| 3 | Protegerse (agacharse lejos de ventanas frontales) |
+| 2 | Sonar bocina continuamente |
+| 3 | Protegerse del impacto |
 | 4 | Post-impacto: evaluar su propia condición |
-| 5 | Reportar al CCO |
-| 6 | Verificar estado de pasajeros |
-| 7 | NO descender si hay riesgo (incendio, derrame) |
-| 8 | Asistir a víctimas SOLO si es seguro |
+| 5 | Reportar al CCO + Línea 123 |
+| 6 | Descender SOLO si es seguro |
+| 7 | Primeros auxilios si la víctima tiene signos de vida |
+| 8 | NO mover a la víctima (posible lesión columna) |
+| 9 | Proteger escena para Policía/CTI |
+| 10 | Buscar apoyo emocional post-evento |
 
 ---
 
-### AMENAZA DE BOMBA / OBJETO SOSPECHOSO
+### DERRAME DE MATERIAL PELIGROSO (MATPEL)
 
-| # | Acción | ¡IMPORTANTE! |
-|---|--------|--------------|
-| 1 | NO TOCAR el objeto | Nunca |
-| 2 | NO usar radio/celular cerca del objeto | Puede detonar |
-| 3 | Alejarse y alejar a personas | Mín. 300m |
-| 4 | Notificar al CCO desde distancia segura | |
-| 5 | Detener tren en zona abierta (orden CCO) | |
-| 6 | Evacuar a pasajeros en dirección opuesta al objeto | |
-| 7 | Esperar equipo antiexplosivos | NO regresar |
-
----
-
-### DERRAME DE MATERIAL PELIGROSO (HAZMAT)
-
-| # | Acción | ¡IMPORTANTE! |
-|---|--------|--------------|
+| # | Acción | IMPORTANTE |
+|---|--------|-----------|
 | 1 | RETIRARSE inmediatamente | A FAVOR del viento |
-| 2 | NO intentar sellar fugas | Nunca |
-| 3 | NO caminar sobre derrames | Nunca |
+| 2 | NO intentar sellar fugas | NUNCA |
+| 3 | NO caminar sobre derrames | NUNCA |
 | 4 | Identificar material (placa, número UN) | Desde distancia |
-| 5 | Reportar al CCO | Material + cantidad + dirección viento |
-| 6 | Restringir acceso a la zona | Mín. 300m inicial |
-| 7 | Esperar equipo HAZMAT especializado | |
+| 5 | Reportar al CCO + 123 | Material + cantidad + viento |
+| 6 | Alertar a comunidades cercanas | Si hay riesgo |
+| 7 | Restringir acceso mín. 300m | |
+| 8 | Esperar equipo MATPEL (Bomberos especializados) | |
 
-**Distancias mínimas de aislamiento:**
+**Distancias mínimas:**
 - Gases tóxicos: 800m (día) / 3,200m (noche)
 - Líquidos inflamables: 300m
 - Explosivos: 1,600m
 
 ---
 
-### ELECTROCUCIÓN / CATENARIA DAÑADA
+### AMENAZA DE BOMBA / ORDEN PÚBLICO
 
-| # | Acción | ¡PELIGRO MORTAL! |
-|---|--------|-----------------|
-| 1 | NO TOCAR cables caídos ni a la víctima si está en contacto | 25,000V |
-| 2 | Alejarse mínimo 3 metros de cables | Tensión de paso |
-| 3 | Notificar al CCO: URGENTE desconexión de catenaria | |
-| 4 | NO permitir que nadie descienda del tren | |
+| # | Acción | IMPORTANTE |
+|---|--------|-----------|
+| 1 | NO TOCAR el objeto sospechoso | Nunca |
+| 2 | NO usar radio/celular cerca | Puede detonar |
+| 3 | Alejarse mín. 300m | |
+| 4 | Reportar al CCO desde distancia segura | |
+| 5 | CCO llama a 123 → Policía Nacional (Antiexplosivos) | |
+| 6 | Evacuar pasajeros en dirección opuesta | |
+| 7 | NO regresar hasta orden de autoridad | |
+
+---
+
+### ELECTROCUCIÓN / SISTEMA ELÉCTRICO
+
+| # | Acción | PELIGRO MORTAL |
+|---|--------|---------------|
+| 1 | NO TOCAR cables caídos ni a la víctima en contacto | 1,500V DC (Metro) / 25,000V AC |
+| 2 | Alejarse mínimo 3 metros | Tensión de paso |
+| 3 | Reportar al CCO: URGENTE desconexión | |
+| 4 | NO permitir descenso de pasajeros | |
 | 5 | Esperar confirmación de DESENERGIZACIÓN | |
-| 6 | Solo entonces iniciar primeros auxilios a la víctima | |
+| 6 | Solo entonces atender a la víctima | |
 
 ---
-
-### ARROLLAMIENTO DE PERSONA
-
-| # | Acción |
-|---|--------|
-| 1 | Aplicar freno de emergencia |
-| 2 | Reportar al CCO (km exacto) |
-| 3 | Descender SOLO si es seguro (verificar vía adyacente) |
-| 4 | Evaluar estado de la víctima |
-| 5 | Si hay signos de vida: primeros auxilios básicos |
-| 6 | NO mover a la víctima (posible lesión de columna) |
-| 7 | Proteger la escena para investigación |
-| 8 | Esperar servicios de emergencia |
-
----
-
 
 ## EVACUACIÓN - DECISIÓN RÁPIDA
 
 ```
 ¿HAY PELIGRO INMINENTE?
-(incendio incontrolable, explosión, inundación, gas tóxico)
+(incendio, explosión, inundación, gas tóxico, ladera inestable)
           │
     ┌─────┴─────┐
     │ SÍ        │ NO
     │           │
     ▼           ▼
  EVACUAR     ¿Está en zona segura?
- AHORA       (no túnel, no puente,
+ AHORA       (no túnel, no puente, no ladera,
              no catenaria dañada)
                   │
             ┌─────┴─────┐
             │ SÍ        │ NO
-            │           │
             ▼           ▼
-      Esperar        Contactar CCO
+      Esperar       Contactar CCO
       instrucciones  para evaluar
-      del CCO        opciones
 ```
-
-### Lado seguro de evacuación:
-- Lado OPUESTO a vía adyacente con tráfico
-- Lado OPUESTO al fuego/derrame
-- Confirmar con CCO antes de abrir puertas
-- Verificar que catenaria esté desenergizada
 
 ### Prioridad de evacuación:
 1. Personas con movilidad reducida
-2. Niños y ancianos
-3. Heridos que puedan moverse
-4. Resto de pasajeros
+2. Niños y adultos mayores
+3. Mujeres embarazadas
+4. Heridos que puedan moverse
+5. Resto de pasajeros
 
 ---
 
@@ -202,53 +204,66 @@
 
 | Color | Condición | Acción |
 |-------|-----------|--------|
-| **NEGRO** | Sin respiración (tras abrir vía aérea) | Fallecido - No tratar |
-| **ROJO** | Respira pero: FR>30, no pulso radial, no obedece órdenes | Inmediato - Prioridad 1 |
-| **AMARILLO** | Respira, pulso presente, obedece órdenes, NO camina | Urgente - Prioridad 2 |
-| **VERDE** | Camina por sí mismo | Menor - Prioridad 3 |
+| **NEGRO** | Sin respiración (tras abrir vía aérea) | Fallecido |
+| **ROJO** | No camina + FR>30 o sin pulso radial o inconsciente | Inmediato |
+| **AMARILLO** | No camina + respira + pulso + consciente | Urgente |
+| **VERDE** | Camina por sí mismo | Menor |
 
-**Regla rápida:** Si la persona CAMINA → VERDE. Si NO camina → evaluar respiración → evaluar circulación → evaluar estado mental.
-
----
-
-## SEÑALES DE EMERGENCIA
-
-| Señal | Significado |
-|-------|-------------|
-| Bocina: 1 toque largo continuo | Emergencia / Peligro |
-| Bocina: 3 toques cortos | Retroceso |
-| Bandera roja / luz roja | ALTO - Peligro adelante |
-| Movimiento circular de brazo/linterna | Pare inmediatamente |
-| Brazos cruzados sobre cabeza | Todo bien / Sin novedad |
+**Regla:** Si CAMINA → VERDE. Si NO camina → evaluar respiración → circulación → conciencia.
 
 ---
 
-## VERIFICACIONES POST-EMERGENCIA (CHECKLIST)
+## COORDINACIÓN INSTITUCIONAL COLOMBIA
 
-- [ ] Todas las personas han sido contabilizadas
+```
+YO (primer respondedor)
+    │
+    ├──→ CCO del operador
+    │
+    ├──→ Línea 123 (despacha todo)
+    │         │
+    │         ├── Bomberos (119)
+    │         ├── Ambulancia (CRUE)
+    │         ├── Policía (112)
+    │         └── Defensa Civil (144)
+    │
+    └──→ Mi supervisor directo
+```
+
+---
+
+## CHECKLIST POST-EMERGENCIA
+
+- [ ] Todas las personas contabilizadas
 - [ ] Zona asegurada y señalizada
 - [ ] CCO informado del estado actual
-- [ ] Servicios de emergencia en sitio o en camino
-- [ ] Heridos atendidos/evacuados a hospital
-- [ ] Evidencia preservada (no mover nada innecesariamente)
+- [ ] Organismos de socorro en sitio
+- [ ] Heridos evacuados a hospital (CRUE coordinó)
+- [ ] Evidencia preservada (Policía/CTI/Supertransporte)
 - [ ] Informe inicial redactado
 - [ ] Bienestar del personal propio verificado
-- [ ] Autoridades notificadas según protocolo
+- [ ] Supertransporte/ANI notificados
+- [ ] ARL notificada (si hay personal propio afectado)
+- [ ] Comunidades cercanas informadas
 
 ---
 
-## CONTACTOS Y ANOTACIONES PERSONALES
+## MIS DATOS PERSONALES
 
 | Dato | Información |
 |------|-------------|
 | Mi identificación operativa | _________________ |
 | Mi base/estación | _________________ |
 | Mi supervisor directo | _________________ |
+| Corredor asignado | _________________ |
 | Frecuencia radio principal | _________________ |
 | Frecuencia radio emergencia | _________________ |
-| Punto de reunión designado | _________________ |
+| ARL a la que estoy afiliado | _________________ |
+| EPS a la que estoy afiliado | _________________ |
+| Mi tipo de sangre (RH) | _________________ |
+| Contacto de emergencia personal | _________________ |
 
 ---
 
-*Guía Rápida v1.0 - Julio 2026*
+*Guía Rápida v2.0 - Colombia | Julio 2026*
 *Imprimir en formato de bolsillo plastificado para uso en campo*
